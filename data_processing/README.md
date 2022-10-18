@@ -23,7 +23,7 @@ And fill in your path directories.
 After this you can install `tusz_data_processing` by doing the following:
 
     cd src/
-    pip -e install setup.py
+    pip install -e .
 
 This installs the [tusz_data_processing](src/tusz_data_processing/) 'package'.
 
