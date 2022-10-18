@@ -1,2 +1,6 @@
-# tnkf_lssvm_seizure_detect
-TNKF-LSSVM for Seizure Detection
+# TNKF-LSSVM for Seizure Detection
+
+Public repo for paper: 
+
+
+
