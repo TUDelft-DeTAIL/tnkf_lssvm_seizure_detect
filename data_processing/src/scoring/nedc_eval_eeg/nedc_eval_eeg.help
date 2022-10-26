@@ -1,0 +1,43 @@
+name: nedc_eval_eeg
+synopsis: nedc_eval_eeg [options] ref.txt hyp.txt
+descr: evaluates hypotheses using standard scoring metrics
+
+options:
+ -o, --odir: the output directory [$PWD/output]
+ -p, --parameters: scoring parameters [nedc_eval_eeg_params_v00.txt]
+ -n, --nist: include the NIST scoring algorithm
+ -c, --competition: use competition version of this software
+ 
+arguments:
+ ref.txt: a list of reference annotation files (see below)
+ hyp.txt: a list of hypothesis files (see below)
+
+example:
+ nedc_eval_eeg -odir ./output/report ref.list hyp.list
+
+  generates a scoring report and outputs it to the default directory.
+  the report contains results of the following algorithms:
+    (1) NIST KWS scoring software algorithm (nist) (use --nist option)
+    (2) NEDC's dynamic programming alignment scoring algorithm (dpalign)
+    (3) NEDC's epoch scoring algorithm: (epoch)
+    (4) NEDC's overlap scoring algorithm (ovlp)
+    (5) NEDC's time-aligned event scoring algorithm (taes)
+    (6) NEDC's inter-rater agreement (ira) (not included in comp version)
+
+notes:
+
+(1) When run in competition mode, the inputs are single files
+    containing all the data to be scored. When run in research
+    mode (the default), this inputs are files lists of all the hypothesis
+    files.
+
+(2) When using competition version, --nist and --parameters may not be
+    used.
+
+(3) To learn more about these algorithms, see this publication:
+
+    Shah, V., Golmohammadi, M., Obeid, I., & Picone,
+    J. (2021). Objective Evaluation Metrics for Automatic
+    Classification of EEG Events. In I. Obeid, I. Selesnick, &
+    J. Picone (Eds.), Biomedical Signal Processing: Innovation and
+    Applications (1st ed., pp. 1–26). Springer. (Download).

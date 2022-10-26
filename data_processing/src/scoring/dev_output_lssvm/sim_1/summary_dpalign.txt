@@ -1,0 +1,6078 @@
+    0: 00000258_s004_t000
+       00000258_s004_t000
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg  seiz  bckg 
+  Hyp:   ***   ***   ***   ***  bckg  seiz  bckg  seiz  bckg 
+        (Hit: 5  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+    1: 00000258_s001_t000
+       00000258_s001_t000
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg  seiz  bckg  seiz  bckg  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***  bckg  seiz  bckg  seiz  bckg  seiz  bckg  seiz   *** 
+        (Hit: 8  Sub: 0  Ins: 0  Del: 5  Total: 5)
+
+    2: 00005479_s002_t000
+       00005479_s002_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+    3: 00005479_s001_t000
+       00005479_s001_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+    4: 00005479_s001_t003
+       00005479_s001_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+    5: 00005479_s001_t001
+       00005479_s001_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+    6: 00005479_s001_t002
+       00005479_s001_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+    7: 00003306_s001_t001
+       00003306_s001_t001
+  Ref:  bckg  seiz  bckg  seiz  bckg  seiz  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz  bckg  seiz  bckg  seiz  bckg  seiz   *** 
+        (Hit: 8  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+    8: 00000795_s001_t001
+       00000795_s001_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+    9: 00000795_s001_t002
+       00000795_s001_t002
+  Ref:   ***   ***   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 6  Del: 0  Total: 6)
+
+   10: 00001640_s001_t001
+       00001640_s001_t001
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+   11: 00001278_s001_t001
+       00001278_s001_t001
+  Ref:   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 4  Del: 0  Total: 4)
+
+   12: 00004151_s002_t002
+       00004151_s002_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   13: 00004151_s002_t003
+       00004151_s002_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   14: 00004151_s002_t001
+       00004151_s002_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   15: 00004151_s001_t001
+       00004151_s001_t001
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***   ***   ***   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 6  Total: 6)
+
+   16: 00001981_s001_t000
+       00001981_s001_t000
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   17: 00001981_s004_t000
+       00001981_s004_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+   18: 00001981_s003_t000
+       00001981_s003_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+   19: 00001981_s002_t001
+       00001981_s002_t001
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+   20: 00001981_s002_t002
+       00001981_s002_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   21: 00001984_s001_t001
+       00001984_s001_t001
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 17  Total: 17)
+
+   22: 00005213_s001_t000
+       00005213_s001_t000
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   23: 00003281_s001_t001
+       00003281_s001_t001
+  Ref:  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 3  Total: 3)
+
+   24: 00004087_s001_t000
+       00004087_s001_t000
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   25: 00004087_s002_t000
+       00004087_s002_t000
+  Ref:   ***   ***   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 6  Del: 0  Total: 6)
+
+   26: 00000629_s001_t000
+       00000629_s001_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+   27: 00000629_s001_t001
+       00000629_s001_t001
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+   28: 00000675_s001_t001
+       00000675_s001_t001
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz  bckg  seiz   *** 
+        (Hit: 4  Sub: 0  Ins: 0  Del: 15  Total: 15)
+
+   29: 00000675_s002_t001
+       00000675_s002_t001
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 35  Total: 35)
+
+   30: 00003635_s001_t001
+       00003635_s001_t001
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 13  Total: 13)
+
+   31: 00005943_s005_t000
+       00005943_s005_t000
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+   32: 00005943_s001_t000
+       00005943_s001_t000
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  BCKG  seiz  bckg  seiz  bckg 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz   ***  seiz  bckg  seiz  bckg 
+        (Hit: 6  Sub: 0  Ins: 0  Del: 17  Total: 17)
+
+   33: 00002289_s001_t000
+       00002289_s001_t000
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+   34: 00002297_s002_t000
+       00002297_s002_t000
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz  bckg  seiz   *** 
+        (Hit: 4  Sub: 0  Ins: 0  Del: 15  Total: 15)
+
+   35: 00002297_s001_t000
+       00002297_s001_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   36: 00005031_s001_t000
+       00005031_s001_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+   37: 00004671_s001_t001
+       00004671_s001_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   38: 00004671_s005_t001
+       00004671_s005_t001
+  Ref:   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 4  Del: 0  Total: 4)
+
+   39: 00004671_s002_t000
+       00004671_s002_t000
+  Ref:   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 4  Del: 0  Total: 4)
+
+   40: 00001027_s001_t001
+       00001027_s001_t001
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   41: 00005625_s001_t001
+       00005625_s001_t001
+  Ref:  bckg   ***   *** 
+  Hyp:  bckg  SEIZ  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+   42: 00005625_s002_t001
+       00005625_s002_t001
+  Ref:  bckg  seiz  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz  bckg  seiz   *** 
+        (Hit: 4  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+   43: 00001770_s003_t000
+       00001770_s003_t000
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+   44: 00001770_s001_t001
+       00001770_s001_t001
+  Ref:   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 4  Del: 0  Total: 4)
+
+   45: 00001770_s001_t000
+       00001770_s001_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+   46: 00001770_s002_t000
+       00001770_s002_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+   47: 00004594_s001_t000
+       00004594_s001_t000
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+   48: 00004594_s002_t000
+       00004594_s002_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   49: 00000258_s002_t000
+       00000258_s002_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   50: 00000258_s002_t002
+       00000258_s002_t002
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+   51: 00000258_s003_t004
+       00000258_s003_t004
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+   52: 00000258_s003_t001
+       00000258_s003_t001
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+   53: 00000258_s003_t003
+       00000258_s003_t003
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+   54: 00000258_s003_t000
+       00000258_s003_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+   55: 00000258_s003_t002
+       00000258_s003_t002
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+   56: 00000258_s003_t005
+       00000258_s003_t005
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+   57: 00006900_s003_t000
+       00006900_s003_t000
+  Ref:   ***   ***   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 6  Del: 0  Total: 6)
+
+   58: 00006900_s001_t001
+       00006900_s001_t001
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+   59: 00006986_s001_t000
+       00006986_s001_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   60: 00006986_s001_t001
+       00006986_s001_t001
+  Ref:  bckg  seiz  bckg   *** 
+  Hyp:  bckg  seiz  bckg  SEIZ 
+        (Hit: 3  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+   61: 00006986_s003_t002
+       00006986_s003_t002
+  Ref:   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 4  Del: 0  Total: 4)
+
+   62: 00005479_s003_t000
+       00005479_s003_t000
+  Ref:  bckg  seiz  bckg  seiz  bckg   *** 
+  Hyp:  bckg  seiz  bckg  seiz  bckg  SEIZ 
+        (Hit: 5  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+   63: 00005479_s004_t000
+       00005479_s004_t000
+  Ref:   ***   ***  bckg  seiz  bckg  seiz  bckg  seiz  bckg  seiz  bckg  seiz  bckg 
+  Hyp:  BCKG  SEIZ  bckg  seiz  bckg  seiz  bckg  seiz  bckg  seiz  bckg  seiz  bckg 
+        (Hit: 11  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+   64: 00005479_s007_t000
+       00005479_s007_t000
+  Ref:  bckg   ***   *** 
+  Hyp:  bckg  SEIZ  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+   65: 00008544_s007_t002
+       00008544_s007_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   66: 00008544_s007_t003
+       00008544_s007_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   67: 00008544_s007_t000
+       00008544_s007_t000
+  Ref:   ***   ***  bckg  seiz  bckg  seiz  bckg 
+  Hyp:  BCKG  SEIZ  bckg  seiz  bckg  seiz  bckg 
+        (Hit: 5  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+   68: 00008544_s002_t009
+       00008544_s002_t009
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   69: 00008544_s002_t010
+       00008544_s002_t010
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   70: 00008544_s002_t012
+       00008544_s002_t012
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   71: 00008544_s002_t001
+       00008544_s002_t001
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+   72: 00008544_s002_t007
+       00008544_s002_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   73: 00008544_s002_t011
+       00008544_s002_t011
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   74: 00008544_s002_t000
+       00008544_s002_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   75: 00008544_s002_t004
+       00008544_s002_t004
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   76: 00008544_s002_t005
+       00008544_s002_t005
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+   77: 00008544_s002_t008
+       00008544_s002_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   78: 00008544_s004_t006
+       00008544_s004_t006
+  Ref:  BCKG  SEIZ  bckg  seiz  bckg 
+  Hyp:   ***   ***  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+   79: 00008544_s004_t010
+       00008544_s004_t010
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***   ***   ***   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 6  Total: 6)
+
+   80: 00008544_s004_t008
+       00008544_s004_t008
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+   81: 00008544_s004_t005
+       00008544_s004_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   82: 00008544_s004_t000
+       00008544_s004_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   83: 00008544_s004_t011
+       00008544_s004_t011
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+   84: 00008544_s004_t007
+       00008544_s004_t007
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   85: 00008544_s004_t001
+       00008544_s004_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   86: 00008544_s004_t003
+       00008544_s004_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   87: 00008544_s004_t012
+       00008544_s004_t012
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   88: 00008544_s004_t004
+       00008544_s004_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   89: 00008544_s004_t002
+       00008544_s004_t002
+  Ref:   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+   90: 00008544_s004_t009
+       00008544_s004_t009
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+   91: 00008544_s010_t008
+       00008544_s010_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   92: 00008544_s010_t005
+       00008544_s010_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   93: 00008544_s010_t002
+       00008544_s010_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   94: 00008544_s010_t000
+       00008544_s010_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   95: 00008544_s010_t007
+       00008544_s010_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   96: 00008544_s010_t010
+       00008544_s010_t010
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   97: 00008544_s010_t004
+       00008544_s010_t004
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+   98: 00008544_s010_t001
+       00008544_s010_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+   99: 00008544_s010_t009
+       00008544_s010_t009
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  100: 00008544_s010_t006
+       00008544_s010_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  101: 00008544_s010_t003
+       00008544_s010_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  102: 00008544_s005_t003
+       00008544_s005_t003
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  103: 00008544_s005_t006
+       00008544_s005_t006
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  104: 00008544_s005_t000
+       00008544_s005_t000
+  Ref:  BCKG  seiz  bckg 
+  Hyp:   ***  seiz  bckg 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  105: 00008544_s005_t001
+       00008544_s005_t001
+  Ref:  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 3  Total: 3)
+
+  106: 00008544_s005_t007
+       00008544_s005_t007
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  107: 00008544_s005_t002
+       00008544_s005_t002
+  Ref:  BCKG  SEIZ  bckg  seiz  bckg 
+  Hyp:   ***   ***  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  108: 00008544_s005_t005
+       00008544_s005_t005
+  Ref:  bckg  seiz  BCKG  seiz  BCKG 
+  Hyp:  bckg  seiz   ***  seiz   *** 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  109: 00008544_s001_t000
+       00008544_s001_t000
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg  seiz  bckg  seiz  bckg  seiz  bckg 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz  bckg  seiz  bckg  seiz  bckg  seiz  bckg 
+        (Hit: 9  Sub: 0  Ins: 0  Del: 14  Total: 14)
+
+  110: 00008544_s011_t005
+       00008544_s011_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  111: 00008544_s011_t008
+       00008544_s011_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  112: 00008544_s011_t003
+       00008544_s011_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  113: 00008544_s011_t004
+       00008544_s011_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  114: 00008544_s011_t002
+       00008544_s011_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  115: 00008544_s011_t006
+       00008544_s011_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  116: 00008544_s011_t001
+       00008544_s011_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  117: 00008544_s011_t010
+       00008544_s011_t010
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  118: 00008544_s011_t011
+       00008544_s011_t011
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  119: 00008544_s011_t007
+       00008544_s011_t007
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  120: 00008544_s011_t009
+       00008544_s011_t009
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  121: 00008544_s011_t000
+       00008544_s011_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  122: 00008544_s009_t008
+       00008544_s009_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  123: 00008544_s009_t007
+       00008544_s009_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  124: 00008544_s009_t002
+       00008544_s009_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  125: 00008544_s009_t005
+       00008544_s009_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  126: 00008544_s009_t006
+       00008544_s009_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  127: 00008544_s009_t001
+       00008544_s009_t001
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  128: 00008544_s009_t004
+       00008544_s009_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  129: 00008544_s009_t000
+       00008544_s009_t000
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  130: 00008544_s009_t003
+       00008544_s009_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  131: 00008544_s006_t005
+       00008544_s006_t005
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  132: 00008544_s006_t004
+       00008544_s006_t004
+  Ref:  BCKG  seiz  BCKG 
+  Hyp:   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  133: 00008544_s006_t001
+       00008544_s006_t001
+  Ref:  bckg  seiz  bckg  seiz  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz  bckg  seiz  bckg  seiz   *** 
+        (Hit: 6  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  134: 00008544_s006_t002
+       00008544_s006_t002
+  Ref:  bckg  seiz  BCKG  seiz  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   ***  seiz  bckg  seiz   *** 
+        (Hit: 5  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  135: 00008544_s006_t006
+       00008544_s006_t006
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  136: 00008544_s006_t000
+       00008544_s006_t000
+  Ref:  bckg  seiz  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz  bckg  seiz   *** 
+        (Hit: 4  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  137: 00008544_s006_t003
+       00008544_s006_t003
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  138: 00008550_s002_t000
+       00008550_s002_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  139: 00008512_s007_t000
+       00008512_s007_t000
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 8  Total: 8)
+
+  140: 00008512_s007_t001
+       00008512_s007_t001
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg  seiz  bckg 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz  bckg  seiz  bckg 
+        (Hit: 5  Sub: 0  Ins: 0  Del: 14  Total: 14)
+
+  141: 00008512_s004_t006
+       00008512_s004_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  142: 00008512_s004_t008
+       00008512_s004_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  143: 00008512_s004_t003
+       00008512_s004_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  144: 00008512_s004_t002
+       00008512_s004_t002
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  145: 00008512_s004_t004
+       00008512_s004_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  146: 00008512_s004_t001
+       00008512_s004_t001
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  147: 00008512_s004_t000
+       00008512_s004_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  148: 00008512_s005_t000
+       00008512_s005_t000
+  Ref:   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 4  Del: 0  Total: 4)
+
+  149: 00008512_s006_t001
+       00008512_s006_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  150: 00008512_s001_t000
+       00008512_s001_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  151: 00008512_s002_t002
+       00008512_s002_t002
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  152: 00008512_s002_t004
+       00008512_s002_t004
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  153: 00008512_s002_t001
+       00008512_s002_t001
+  Ref:  bckg  seiz  BCKG  seiz  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   ***  seiz  bckg  seiz   *** 
+        (Hit: 5  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  154: 00008512_s002_t005
+       00008512_s002_t005
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  155: 00008512_s002_t003
+       00008512_s002_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  156: 00008512_s002_t000
+       00008512_s002_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  157: 00008512_s009_t002
+       00008512_s009_t002
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  158: 00008512_s009_t003
+       00008512_s009_t003
+  Ref:   ***   ***  bckg  seiz  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  seiz  bckg  SEIZ 
+        (Hit: 3  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  159: 00008512_s009_t006
+       00008512_s009_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  160: 00008512_s009_t007
+       00008512_s009_t007
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  161: 00008512_s009_t004
+       00008512_s009_t004
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  162: 00008512_s009_t000
+       00008512_s009_t000
+  Ref:  BCKG  SEIZ  bckg  seiz  BCKG  seiz  bckg  seiz  bckg  seiz  bckg 
+  Hyp:   ***   ***  bckg  seiz   ***  seiz  bckg  seiz  bckg  seiz  bckg 
+        (Hit: 8  Sub: 0  Ins: 0  Del: 3  Total: 3)
+
+  163: 00008512_s009_t005
+       00008512_s009_t005
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  164: 00008512_s009_t001
+       00008512_s009_t001
+  Ref:  BCKG  SEIZ  bckg  seiz  bckg 
+  Hyp:   ***   ***  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  165: 00008512_s003_t004
+       00008512_s003_t004
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  166: 00008512_s003_t002
+       00008512_s003_t002
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  167: 00008512_s003_t006
+       00008512_s003_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  168: 00008512_s003_t001
+       00008512_s003_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  169: 00008512_s003_t003
+       00008512_s003_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  170: 00008512_s003_t005
+       00008512_s003_t005
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  171: 00008512_s003_t000
+       00008512_s003_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  172: 00006059_s003_t000
+       00006059_s003_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  173: 00006059_s004_t000
+       00006059_s004_t000
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  174: 00006059_s008_t000
+       00006059_s008_t000
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  175: 00006059_s007_t000
+       00006059_s007_t000
+  Ref:   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 4  Del: 0  Total: 4)
+
+  176: 00006059_s006_t001
+       00006059_s006_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  177: 00006059_s006_t002
+       00006059_s006_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  178: 00006059_s006_t000
+       00006059_s006_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  179: 00006059_s005_t000
+       00006059_s005_t000
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  180: 00006059_s005_t001
+       00006059_s005_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  181: 00006059_s005_t002
+       00006059_s005_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  182: 00001278_s002_t000
+       00001278_s002_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  183: 00001278_s002_t002
+       00001278_s002_t002
+  Ref:   ***  bckg 
+  Hyp:  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  184: 00001278_s002_t003
+       00001278_s002_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  185: 00008606_s001_t000
+       00008606_s001_t000
+  Ref:   ***   ***  bckg  seiz  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  seiz  bckg  SEIZ 
+        (Hit: 3  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  186: 00006546_s026_t000
+       00006546_s026_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  187: 00006546_s022_t009
+       00006546_s022_t009
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  188: 00006546_s022_t000
+       00006546_s022_t000
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  189: 00006546_s022_t008
+       00006546_s022_t008
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  190: 00006546_s022_t006
+       00006546_s022_t006
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  191: 00006546_s022_t007
+       00006546_s022_t007
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  192: 00006546_s022_t010
+       00006546_s022_t010
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  193: 00006546_s022_t005
+       00006546_s022_t005
+  Ref:  BCKG  SEIZ  bckg  seiz  bckg  seiz  BCKG 
+  Hyp:   ***   ***  bckg  seiz  bckg  seiz   *** 
+        (Hit: 4  Sub: 0  Ins: 0  Del: 3  Total: 3)
+
+  194: 00006546_s022_t004
+       00006546_s022_t004
+  Ref:   ***   ***  bckg  seiz  bckg 
+  Hyp:  BCKG  SEIZ  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  195: 00006546_s018_t000
+       00006546_s018_t000
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 14  Total: 14)
+
+  196: 00006546_s021_t006
+       00006546_s021_t006
+  Ref:   ***   ***   ***  bckg  seiz  bckg  seiz  bckg 
+  Hyp:  BCKG  SEIZ  SEIZ  bckg  seiz  bckg  seiz  bckg 
+        (Hit: 5  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  197: 00006546_s021_t005
+       00006546_s021_t005
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  198: 00006546_s021_t008
+       00006546_s021_t008
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  199: 00006546_s021_t002
+       00006546_s021_t002
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 6  Total: 6)
+
+  200: 00006546_s021_t009
+       00006546_s021_t009
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  201: 00006546_s021_t001
+       00006546_s021_t001
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  202: 00006546_s021_t010
+       00006546_s021_t010
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  203: 00006546_s021_t004
+       00006546_s021_t004
+  Ref:  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 3  Total: 3)
+
+  204: 00006546_s021_t000
+       00006546_s021_t000
+  Ref:  BCKG  SEIZ  BCKG  seiz  BCKG 
+  Hyp:   ***   ***   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  205: 00006546_s021_t003
+       00006546_s021_t003
+  Ref:  bckg  seiz  bckg   *** 
+  Hyp:  bckg  seiz  bckg  SEIZ 
+        (Hit: 3  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  206: 00006546_s021_t007
+       00006546_s021_t007
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  207: 00006546_s023_t006
+       00006546_s023_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  208: 00006546_s023_t001
+       00006546_s023_t001
+  Ref:  bckg  seiz  bckg   *** 
+  Hyp:  bckg  seiz  bckg  SEIZ 
+        (Hit: 3  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  209: 00006546_s023_t004
+       00006546_s023_t004
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 6  Total: 6)
+
+  210: 00006546_s023_t005
+       00006546_s023_t005
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  211: 00006546_s023_t002
+       00006546_s023_t002
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  212: 00006546_s023_t007
+       00006546_s023_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  213: 00006546_s023_t000
+       00006546_s023_t000
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  214: 00006546_s020_t004
+       00006546_s020_t004
+  Ref:  BCKG  SEIZ  BCKG  seiz  BCKG 
+  Hyp:   ***   ***   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  215: 00006546_s020_t001
+       00006546_s020_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  216: 00006546_s020_t000
+       00006546_s020_t000
+  Ref:  BCKG  SEIZ  bckg  seiz  bckg 
+  Hyp:   ***   ***  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  217: 00006546_s020_t003
+       00006546_s020_t003
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 5  Total: 5)
+
+  218: 00006546_s020_t007
+       00006546_s020_t007
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 6  Total: 6)
+
+  219: 00006546_s020_t005
+       00006546_s020_t005
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 8  Total: 8)
+
+  220: 00006546_s020_t002
+       00006546_s020_t002
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  221: 00006546_s020_t006
+       00006546_s020_t006
+  Ref:  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 3  Total: 3)
+
+  222: 00006546_s005_t001
+       00006546_s005_t001
+  Ref:  BCKG  SEIZ  BCKG  seiz  BCKG 
+  Hyp:   ***   ***   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  223: 00006546_s014_t000
+       00006546_s014_t000
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg  seiz  bckg  seiz  bckg  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***   ***  bckg  seiz  bckg  seiz  bckg  seiz  bckg  seiz   *** 
+        (Hit: 8  Sub: 0  Ins: 0  Del: 7  Total: 7)
+
+  224: 00006546_s001_t000
+       00006546_s001_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  225: 00006546_s009_t000
+       00006546_s009_t000
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  226: 00006546_s025_t005
+       00006546_s025_t005
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  227: 00006546_s025_t004
+       00006546_s025_t004
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  228: 00006546_s025_t006
+       00006546_s025_t006
+  Ref:  bckg   ***   *** 
+  Hyp:  bckg  SEIZ  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  229: 00006546_s025_t000
+       00006546_s025_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  230: 00006546_s025_t002
+       00006546_s025_t002
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  231: 00006546_s025_t003
+       00006546_s025_t003
+  Ref:  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 3  Total: 3)
+
+  232: 00006546_s024_t000
+       00006546_s024_t000
+  Ref:  BCKG  SEIZ  bckg  seiz  BCKG  seiz  bckg  seiz  BCKG 
+  Hyp:   ***   ***  bckg  seiz   ***  seiz  bckg  seiz   *** 
+        (Hit: 5  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  233: 00006546_s024_t001
+       00006546_s024_t001
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 8  Total: 8)
+
+  234: 00008479_s002_t003
+       00008479_s002_t003
+  Ref:  BCKG  SEIZ  BCKG  seiz  BCKG 
+  Hyp:   ***   ***   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  235: 00008479_s002_t004
+       00008479_s002_t004
+  Ref:  BCKG  SEIZ  BCKG  seiz  BCKG 
+  Hyp:   ***   ***   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  236: 00008479_s002_t002
+       00008479_s002_t002
+  Ref:  BCKG  seiz  BCKG 
+  Hyp:   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  237: 00008479_s002_t000
+       00008479_s002_t000
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 16  Total: 16)
+
+  238: 00008479_s002_t001
+       00008479_s002_t001
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  239: 00008479_s002_t005
+       00008479_s002_t005
+  Ref:  BCKG  SEIZ  BCKG  seiz  BCKG 
+  Hyp:   ***   ***   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  240: 00008479_s002_t006
+       00008479_s002_t006
+  Ref:  BCKG  seiz  BCKG 
+  Hyp:   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  241: 00008479_s002_t007
+       00008479_s002_t007
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  242: 00008479_s004_t000
+       00008479_s004_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  243: 00008479_s003_t001
+       00008479_s003_t001
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz  SEIZ 
+        (Hit: 2  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  244: 00008479_s003_t000
+       00008479_s003_t000
+  Ref:  BCKG  seiz  BCKG 
+  Hyp:   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  245: 00008479_s003_t004
+       00008479_s003_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  246: 00008479_s003_t002
+       00008479_s003_t002
+  Ref:  bckg   ***  seiz  bckg 
+  Hyp:  bckg  SEIZ  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  247: 00008479_s003_t003
+       00008479_s003_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  248: 00008479_s001_t000
+       00008479_s001_t000
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 19  Total: 19)
+
+  249: 00008460_s008_t000
+       00008460_s008_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  250: 00008460_s006_t005
+       00008460_s006_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  251: 00008460_s006_t000
+       00008460_s006_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  252: 00008460_s006_t003
+       00008460_s006_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  253: 00008460_s006_t002
+       00008460_s006_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  254: 00008460_s006_t001
+       00008460_s006_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  255: 00008460_s006_t004
+       00008460_s006_t004
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  256: 00008460_s003_t000
+       00008460_s003_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  257: 00008460_s004_t004
+       00008460_s004_t004
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  258: 00008460_s004_t003
+       00008460_s004_t003
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  259: 00008460_s004_t005
+       00008460_s004_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  260: 00008460_s004_t000
+       00008460_s004_t000
+  Ref:  bckg  seiz  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz  bckg  seiz   *** 
+        (Hit: 4  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  261: 00008460_s004_t002
+       00008460_s004_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  262: 00008460_s004_t001
+       00008460_s004_t001
+  Ref:  bckg  seiz  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz  bckg  seiz   *** 
+        (Hit: 4  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  263: 00008460_s001_t000
+       00008460_s001_t000
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 16  Total: 16)
+
+  264: 00008460_s007_t003
+       00008460_s007_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  265: 00008460_s007_t002
+       00008460_s007_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  266: 00008460_s007_t000
+       00008460_s007_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  267: 00008460_s007_t001
+       00008460_s007_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  268: 00008460_s007_t005
+       00008460_s007_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  269: 00008460_s007_t004
+       00008460_s007_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  270: 00008453_s003_t000
+       00008453_s003_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  271: 00008453_s005_t000
+       00008453_s005_t000
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  272: 00008453_s005_t001
+       00008453_s005_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  273: 00008453_s002_t000
+       00008453_s002_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  274: 00008453_s001_t000
+       00008453_s001_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  275: 00008453_s010_t008
+       00008453_s010_t008
+  Ref:   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  276: 00008453_s010_t003
+       00008453_s010_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  277: 00008453_s010_t002
+       00008453_s010_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  278: 00008453_s010_t005
+       00008453_s010_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  279: 00008453_s010_t006
+       00008453_s010_t006
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  280: 00008453_s010_t004
+       00008453_s010_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  281: 00008453_s010_t007
+       00008453_s010_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  282: 00008453_s010_t001
+       00008453_s010_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  283: 00008453_s006_t000
+       00008453_s006_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  284: 00008453_s004_t007
+       00008453_s004_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  285: 00008453_s004_t012
+       00008453_s004_t012
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  286: 00008453_s004_t009
+       00008453_s004_t009
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  287: 00008453_s004_t001
+       00008453_s004_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  288: 00008453_s004_t003
+       00008453_s004_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  289: 00008453_s004_t011
+       00008453_s004_t011
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  290: 00008453_s004_t000
+       00008453_s004_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  291: 00008453_s004_t008
+       00008453_s004_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  292: 00008453_s004_t010
+       00008453_s004_t010
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  293: 00008453_s004_t002
+       00008453_s004_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  294: 00008453_s009_t000
+       00008453_s009_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  295: 00008453_s011_t004
+       00008453_s011_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  296: 00008453_s011_t003
+       00008453_s011_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  297: 00008453_s011_t005
+       00008453_s011_t005
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  298: 00008453_s011_t000
+       00008453_s011_t000
+  Ref:  bckg   ***   *** 
+  Hyp:  bckg  SEIZ  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  299: 00008453_s011_t002
+       00008453_s011_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  300: 00008453_s011_t006
+       00008453_s011_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  301: 00008453_s011_t001
+       00008453_s011_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  302: 00008453_s007_t004
+       00008453_s007_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  303: 00008453_s007_t008
+       00008453_s007_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  304: 00008453_s007_t003
+       00008453_s007_t003
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  305: 00008453_s007_t010
+       00008453_s007_t010
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  306: 00008453_s007_t007
+       00008453_s007_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  307: 00008453_s007_t005
+       00008453_s007_t005
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  308: 00008453_s007_t013
+       00008453_s007_t013
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  309: 00008453_s007_t000
+       00008453_s007_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  310: 00008453_s007_t012
+       00008453_s007_t012
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  311: 00008453_s007_t011
+       00008453_s007_t011
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  312: 00008453_s008_t007
+       00008453_s008_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  313: 00008453_s008_t011
+       00008453_s008_t011
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  314: 00008453_s008_t004
+       00008453_s008_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  315: 00008453_s008_t000
+       00008453_s008_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  316: 00008453_s008_t010
+       00008453_s008_t010
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  317: 00008453_s008_t009
+       00008453_s008_t009
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  318: 00008453_s008_t008
+       00008453_s008_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  319: 00008453_s008_t006
+       00008453_s008_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  320: 00008453_s008_t001
+       00008453_s008_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  321: 00008453_s008_t005
+       00008453_s008_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  322: 00009697_s005_t007
+       00009697_s005_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  323: 00009697_s005_t010
+       00009697_s005_t010
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  324: 00009697_s005_t004
+       00009697_s005_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  325: 00009697_s005_t005
+       00009697_s005_t005
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  326: 00009697_s005_t000
+       00009697_s005_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  327: 00009697_s005_t008
+       00009697_s005_t008
+  Ref:   ***  bckg 
+  Hyp:  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  328: 00009697_s005_t006
+       00009697_s005_t006
+  Ref:   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 4  Del: 0  Total: 4)
+
+  329: 00009697_s005_t009
+       00009697_s005_t009
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  330: 00009697_s005_t011
+       00009697_s005_t011
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  331: 00009697_s005_t001
+       00009697_s005_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  332: 00009697_s005_t003
+       00009697_s005_t003
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  333: 00009697_s005_t002
+       00009697_s005_t002
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  334: 00009697_s006_t010
+       00009697_s006_t010
+  Ref:   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  335: 00009697_s006_t004
+       00009697_s006_t004
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  336: 00009697_s006_t009
+       00009697_s006_t009
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  337: 00009697_s006_t003
+       00009697_s006_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  338: 00009697_s006_t000
+       00009697_s006_t000
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  339: 00009697_s006_t008
+       00009697_s006_t008
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  340: 00009697_s006_t002
+       00009697_s006_t002
+  Ref:  bckg   ***   *** 
+  Hyp:  bckg  SEIZ  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  341: 00009697_s006_t001
+       00009697_s006_t001
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  342: 00009697_s006_t006
+       00009697_s006_t006
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  343: 00009697_s006_t007
+       00009697_s006_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  344: 00009697_s006_t005
+       00009697_s006_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  345: 00009697_s003_t003
+       00009697_s003_t003
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  346: 00009697_s003_t004
+       00009697_s003_t004
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  347: 00009697_s003_t007
+       00009697_s003_t007
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  348: 00009697_s003_t002
+       00009697_s003_t002
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  349: 00009697_s003_t001
+       00009697_s003_t001
+  Ref:  BCKG  SEIZ  bckg  seiz  bckg 
+  Hyp:   ***   ***  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  350: 00009697_s003_t009
+       00009697_s003_t009
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  351: 00009697_s003_t005
+       00009697_s003_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  352: 00009697_s003_t008
+       00009697_s003_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  353: 00009697_s003_t006
+       00009697_s003_t006
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  354: 00009697_s003_t000
+       00009697_s003_t000
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  355: 00009697_s001_t000
+       00009697_s001_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  356: 00009697_s002_t001
+       00009697_s002_t001
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  357: 00009697_s002_t000
+       00009697_s002_t000
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  358: 00009697_s004_t000
+       00009697_s004_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  359: 00010547_s001_t001
+       00010547_s001_t001
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz  SEIZ 
+        (Hit: 2  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  360: 00008174_s002_t007
+       00008174_s002_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  361: 00008174_s002_t001
+       00008174_s002_t001
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  362: 00008174_s002_t006
+       00008174_s002_t006
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  363: 00008174_s002_t004
+       00008174_s002_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  364: 00008174_s002_t000
+       00008174_s002_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  365: 00008174_s002_t002
+       00008174_s002_t002
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  366: 00008174_s002_t005
+       00008174_s002_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  367: 00008174_s002_t003
+       00008174_s002_t003
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  368: 00008174_s002_t008
+       00008174_s002_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  369: 00008174_s001_t001
+       00008174_s001_t001
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg  seiz  bckg  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***   ***  bckg  seiz  bckg  seiz  bckg  seiz   *** 
+        (Hit: 6  Sub: 0  Ins: 0  Del: 7  Total: 7)
+
+  370: 00008889_s001_t000
+       00008889_s001_t000
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  371: 00008889_s001_t001
+       00008889_s001_t001
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  372: 00008889_s002_t004
+       00008889_s002_t004
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  373: 00008889_s002_t008
+       00008889_s002_t008
+  Ref:  bckg  seiz  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz  bckg  seiz   *** 
+        (Hit: 4  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  374: 00008889_s002_t003
+       00008889_s002_t003
+  Ref:  bckg  seiz  bckg   *** 
+  Hyp:  bckg  seiz  bckg  SEIZ 
+        (Hit: 3  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  375: 00008889_s002_t002
+       00008889_s002_t002
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  376: 00008889_s002_t007
+       00008889_s002_t007
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  377: 00008889_s002_t001
+       00008889_s002_t001
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  378: 00008889_s002_t000
+       00008889_s002_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  379: 00008889_s002_t009
+       00008889_s002_t009
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  380: 00008889_s002_t005
+       00008889_s002_t005
+  Ref:  bckg   ***  seiz  bckg   *** 
+  Hyp:  bckg  SEIZ  seiz  bckg  SEIZ 
+        (Hit: 3  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  381: 00008889_s002_t010
+       00008889_s002_t010
+  Ref:  BCKG  SEIZ  BCKG  seiz  BCKG 
+  Hyp:   ***   ***   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  382: 00008889_s002_t006
+       00008889_s002_t006
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  383: 00008889_s003_t003
+       00008889_s003_t003
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  384: 00008889_s003_t002
+       00008889_s003_t002
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  385: 00008889_s003_t007
+       00008889_s003_t007
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  386: 00008889_s003_t004
+       00008889_s003_t004
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  387: 00008889_s003_t008
+       00008889_s003_t008
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  388: 00008889_s003_t006
+       00008889_s003_t006
+  Ref:  BCKG  SEIZ  BCKG  seiz  BCKG 
+  Hyp:   ***   ***   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  389: 00008889_s003_t001
+       00008889_s003_t001
+  Ref:  BCKG  SEIZ  bckg  seiz  bckg 
+  Hyp:   ***   ***  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  390: 00008889_s003_t009
+       00008889_s003_t009
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  391: 00008889_s003_t005
+       00008889_s003_t005
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  392: 00008889_s003_t000
+       00008889_s003_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  393: 00008889_s003_t010
+       00008889_s003_t010
+  Ref:  bckg  seiz  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg  seiz  bckg 
+        (Hit: 5  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  394: 00008889_s005_t005
+       00008889_s005_t005
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  395: 00008889_s005_t006
+       00008889_s005_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  396: 00008889_s005_t009
+       00008889_s005_t009
+  Ref:  BCKG  seiz  BCKG 
+  Hyp:   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  397: 00008889_s005_t008
+       00008889_s005_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  398: 00008889_s005_t004
+       00008889_s005_t004
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  399: 00008889_s005_t007
+       00008889_s005_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  400: 00008889_s005_t003
+       00008889_s005_t003
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  401: 00008889_s005_t010
+       00008889_s005_t010
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  402: 00008889_s005_t001
+       00008889_s005_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  403: 00008889_s005_t002
+       00008889_s005_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  404: 00008889_s005_t011
+       00008889_s005_t011
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  405: 00008889_s005_t000
+       00008889_s005_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  406: 00008889_s005_t012
+       00008889_s005_t012
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  407: 00008889_s004_t011
+       00008889_s004_t011
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg  seiz  bckg 
+  Hyp:   ***   ***   ***   ***  bckg  seiz  bckg  seiz  bckg 
+        (Hit: 5  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  408: 00008889_s004_t014
+       00008889_s004_t014
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***   ***   ***   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 6  Total: 6)
+
+  409: 00008889_s004_t000
+       00008889_s004_t000
+  Ref:  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 3  Total: 3)
+
+  410: 00008889_s004_t004
+       00008889_s004_t004
+  Ref:  BCKG  SEIZ  bckg  seiz  bckg 
+  Hyp:   ***   ***  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  411: 00008889_s004_t002
+       00008889_s004_t002
+  Ref:  BCKG  seiz  bckg 
+  Hyp:   ***  seiz  bckg 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  412: 00008889_s004_t005
+       00008889_s004_t005
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  413: 00008889_s004_t009
+       00008889_s004_t009
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 8  Total: 8)
+
+  414: 00008889_s004_t003
+       00008889_s004_t003
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  415: 00008889_s004_t012
+       00008889_s004_t012
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 5  Total: 5)
+
+  416: 00008889_s004_t013
+       00008889_s004_t013
+  Ref:  bckg  seiz  bckg   *** 
+  Hyp:  bckg  seiz  bckg  SEIZ 
+        (Hit: 3  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  417: 00008889_s004_t001
+       00008889_s004_t001
+  Ref:  bckg  seiz  bckg   *** 
+  Hyp:  bckg  seiz  bckg  SEIZ 
+        (Hit: 3  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  418: 00008889_s004_t007
+       00008889_s004_t007
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***   ***   ***   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 6  Total: 6)
+
+  419: 00008889_s004_t010
+       00008889_s004_t010
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  420: 00008889_s004_t015
+       00008889_s004_t015
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  421: 00008889_s004_t008
+       00008889_s004_t008
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 8  Total: 8)
+
+  422: 00008889_s004_t006
+       00008889_s004_t006
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg 
+  Hyp:   ***   ***   ***   ***  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  423: 00009578_s020_t000
+       00009578_s020_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  424: 00009578_s020_t001
+       00009578_s020_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  425: 00009578_s020_t005
+       00009578_s020_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  426: 00009578_s020_t003
+       00009578_s020_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  427: 00009578_s020_t006
+       00009578_s020_t006
+  Ref:   ***  bckg 
+  Hyp:  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  428: 00009578_s020_t002
+       00009578_s020_t002
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  429: 00009578_s020_t007
+       00009578_s020_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  430: 00009578_s020_t004
+       00009578_s020_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  431: 00009578_s003_t001
+       00009578_s003_t001
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  432: 00009578_s003_t002
+       00009578_s003_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  433: 00009578_s003_t003
+       00009578_s003_t003
+  Ref:  bckg  seiz  bckg   *** 
+  Hyp:  bckg  seiz  bckg  SEIZ 
+        (Hit: 3  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  434: 00009578_s019_t001
+       00009578_s019_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  435: 00009578_s019_t003
+       00009578_s019_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  436: 00009578_s019_t004
+       00009578_s019_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  437: 00009578_s019_t000
+       00009578_s019_t000
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  438: 00009578_s019_t002
+       00009578_s019_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  439: 00009578_s005_t000
+       00009578_s005_t000
+  Ref:  bckg  seiz  bckg   *** 
+  Hyp:  bckg  seiz  bckg  SEIZ 
+        (Hit: 3  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  440: 00009578_s018_t000
+       00009578_s018_t000
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  441: 00009578_s018_t002
+       00009578_s018_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  442: 00009578_s018_t001
+       00009578_s018_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  443: 00009578_s018_t004
+       00009578_s018_t004
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  444: 00009578_s018_t003
+       00009578_s018_t003
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  445: 00009578_s018_t006
+       00009578_s018_t006
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  446: 00009578_s018_t005
+       00009578_s018_t005
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  447: 00009578_s006_t005
+       00009578_s006_t005
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  448: 00009578_s006_t000
+       00009578_s006_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  449: 00009578_s006_t004
+       00009578_s006_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  450: 00009578_s006_t011
+       00009578_s006_t011
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  451: 00009578_s006_t003
+       00009578_s006_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  452: 00009578_s006_t010
+       00009578_s006_t010
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  453: 00009578_s006_t008
+       00009578_s006_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  454: 00009578_s006_t006
+       00009578_s006_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  455: 00009578_s006_t002
+       00009578_s006_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  456: 00009578_s006_t009
+       00009578_s006_t009
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  457: 00009578_s006_t001
+       00009578_s006_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  458: 00009578_s006_t007
+       00009578_s006_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  459: 00009578_s028_t002
+       00009578_s028_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  460: 00009578_s028_t001
+       00009578_s028_t001
+  Ref:   ***  bckg 
+  Hyp:  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  461: 00009578_s028_t006
+       00009578_s028_t006
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  462: 00009578_s028_t005
+       00009578_s028_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  463: 00009578_s028_t004
+       00009578_s028_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  464: 00009578_s028_t003
+       00009578_s028_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  465: 00009578_s028_t008
+       00009578_s028_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  466: 00009578_s028_t007
+       00009578_s028_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  467: 00009578_s028_t000
+       00009578_s028_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  468: 00009578_s028_t009
+       00009578_s028_t009
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  469: 00009578_s012_t006
+       00009578_s012_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  470: 00009578_s012_t004
+       00009578_s012_t004
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  471: 00009578_s012_t005
+       00009578_s012_t005
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  472: 00009578_s012_t009
+       00009578_s012_t009
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  473: 00009578_s012_t000
+       00009578_s012_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  474: 00009578_s012_t001
+       00009578_s012_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  475: 00009578_s012_t002
+       00009578_s012_t002
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  476: 00009578_s012_t003
+       00009578_s012_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  477: 00009578_s012_t010
+       00009578_s012_t010
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  478: 00009578_s012_t008
+       00009578_s012_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  479: 00009578_s012_t007
+       00009578_s012_t007
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  480: 00009578_s023_t002
+       00009578_s023_t002
+  Ref:   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 4  Del: 0  Total: 4)
+
+  481: 00009578_s023_t001
+       00009578_s023_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  482: 00009578_s023_t000
+       00009578_s023_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  483: 00009578_s004_t006
+       00009578_s004_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  484: 00009578_s004_t000
+       00009578_s004_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  485: 00009578_s004_t001
+       00009578_s004_t001
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  486: 00009578_s004_t007
+       00009578_s004_t007
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  487: 00009578_s004_t002
+       00009578_s004_t002
+  Ref:   ***   ***  bckg  seiz  bckg 
+  Hyp:  BCKG  SEIZ  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  488: 00009578_s004_t005
+       00009578_s004_t005
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  489: 00009578_s004_t004
+       00009578_s004_t004
+  Ref:   ***   ***  bckg  seiz  bckg 
+  Hyp:  BCKG  SEIZ  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  490: 00009578_s026_t004
+       00009578_s026_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  491: 00009578_s026_t000
+       00009578_s026_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  492: 00009578_s026_t003
+       00009578_s026_t003
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  493: 00009578_s026_t009
+       00009578_s026_t009
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  494: 00009578_s026_t002
+       00009578_s026_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  495: 00009578_s026_t006
+       00009578_s026_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  496: 00009578_s026_t005
+       00009578_s026_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  497: 00009578_s026_t001
+       00009578_s026_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  498: 00009578_s026_t008
+       00009578_s026_t008
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  499: 00009578_s026_t007
+       00009578_s026_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  500: 00009578_s008_t003
+       00009578_s008_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  501: 00009578_s008_t007
+       00009578_s008_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  502: 00009578_s008_t000
+       00009578_s008_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  503: 00009578_s008_t006
+       00009578_s008_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  504: 00009578_s008_t001
+       00009578_s008_t001
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  505: 00009578_s008_t002
+       00009578_s008_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  506: 00009578_s008_t010
+       00009578_s008_t010
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  507: 00009578_s008_t008
+       00009578_s008_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  508: 00009578_s008_t004
+       00009578_s008_t004
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  509: 00009578_s008_t005
+       00009578_s008_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  510: 00009578_s008_t009
+       00009578_s008_t009
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  511: 00009578_s033_t009
+       00009578_s033_t009
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  512: 00009578_s033_t008
+       00009578_s033_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  513: 00009578_s033_t007
+       00009578_s033_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  514: 00009578_s033_t011
+       00009578_s033_t011
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  515: 00009578_s033_t000
+       00009578_s033_t000
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  516: 00009578_s033_t005
+       00009578_s033_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  517: 00009578_s033_t010
+       00009578_s033_t010
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  518: 00009578_s033_t001
+       00009578_s033_t001
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  519: 00009578_s033_t006
+       00009578_s033_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  520: 00009578_s033_t004
+       00009578_s033_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  521: 00009578_s033_t012
+       00009578_s033_t012
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  522: 00009578_s035_t007
+       00009578_s035_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  523: 00009578_s035_t008
+       00009578_s035_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  524: 00009578_s035_t003
+       00009578_s035_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  525: 00009578_s035_t000
+       00009578_s035_t000
+  Ref:   ***  bckg 
+  Hyp:  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  526: 00009578_s035_t006
+       00009578_s035_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  527: 00009578_s035_t005
+       00009578_s035_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  528: 00009578_s035_t004
+       00009578_s035_t004
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  529: 00009578_s035_t001
+       00009578_s035_t001
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  530: 00009578_s035_t002
+       00009578_s035_t002
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  531: 00009578_s035_t009
+       00009578_s035_t009
+  Ref:   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 4  Del: 0  Total: 4)
+
+  532: 00009578_s034_t010
+       00009578_s034_t010
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  533: 00009578_s034_t004
+       00009578_s034_t004
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  534: 00009578_s034_t006
+       00009578_s034_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  535: 00009578_s034_t008
+       00009578_s034_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  536: 00009578_s034_t007
+       00009578_s034_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  537: 00009578_s034_t005
+       00009578_s034_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  538: 00009578_s034_t001
+       00009578_s034_t001
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  539: 00009578_s034_t009
+       00009578_s034_t009
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  540: 00009578_s034_t003
+       00009578_s034_t003
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  541: 00009578_s034_t000
+       00009578_s034_t000
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  542: 00009578_s034_t002
+       00009578_s034_t002
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  543: 00009578_s022_t000
+       00009578_s022_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  544: 00009578_s025_t004
+       00009578_s025_t004
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  545: 00009578_s025_t001
+       00009578_s025_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  546: 00009578_s025_t000
+       00009578_s025_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  547: 00009578_s025_t002
+       00009578_s025_t002
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  548: 00009578_s025_t006
+       00009578_s025_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  549: 00009578_s025_t003
+       00009578_s025_t003
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  550: 00009578_s025_t005
+       00009578_s025_t005
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  551: 00009578_s032_t002
+       00009578_s032_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  552: 00009578_s032_t008
+       00009578_s032_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  553: 00009578_s032_t009
+       00009578_s032_t009
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  554: 00009578_s032_t000
+       00009578_s032_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  555: 00009578_s032_t006
+       00009578_s032_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  556: 00009578_s032_t005
+       00009578_s032_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  557: 00009578_s032_t003
+       00009578_s032_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  558: 00009578_s032_t010
+       00009578_s032_t010
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  559: 00009578_s032_t001
+       00009578_s032_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  560: 00009578_s032_t004
+       00009578_s032_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  561: 00009578_s032_t007
+       00009578_s032_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  562: 00009578_s001_t000
+       00009578_s001_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  563: 00009578_s024_t000
+       00009578_s024_t000
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  564: 00009578_s021_t001
+       00009578_s021_t001
+  Ref:   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 8  Del: 0  Total: 8)
+
+  565: 00009578_s021_t000
+       00009578_s021_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  566: 00009578_s002_t001
+       00009578_s002_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  567: 00009578_s002_t002
+       00009578_s002_t002
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  568: 00009578_s002_t000
+       00009578_s002_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  569: 00009578_s015_t001
+       00009578_s015_t001
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  570: 00009578_s015_t005
+       00009578_s015_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  571: 00009578_s015_t000
+       00009578_s015_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  572: 00009578_s015_t003
+       00009578_s015_t003
+  Ref:   ***   ***  bckg  seiz  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  seiz  bckg  SEIZ 
+        (Hit: 3  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  573: 00009578_s015_t004
+       00009578_s015_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  574: 00009578_s015_t002
+       00009578_s015_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  575: 00009578_s029_t008
+       00009578_s029_t008
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg 
+  Hyp:   ***   ***   ***   ***   ***   ***  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 6  Total: 6)
+
+  576: 00009578_s029_t002
+       00009578_s029_t002
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  577: 00009578_s029_t007
+       00009578_s029_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  578: 00009578_s029_t005
+       00009578_s029_t005
+  Ref:  bckg  seiz  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg  seiz  bckg 
+        (Hit: 5  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  579: 00009578_s029_t006
+       00009578_s029_t006
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg  seiz  bckg 
+  Hyp:   ***   ***   ***   ***  bckg  seiz  bckg  seiz  bckg 
+        (Hit: 5  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  580: 00009578_s029_t003
+       00009578_s029_t003
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  581: 00009578_s029_t000
+       00009578_s029_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  582: 00009578_s029_t004
+       00009578_s029_t004
+  Ref:   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 4  Del: 0  Total: 4)
+
+  583: 00009578_s029_t001
+       00009578_s029_t001
+  Ref:  bckg  seiz  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg  seiz  bckg 
+        (Hit: 5  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  584: 00009578_s010_t000
+       00009578_s010_t000
+  Ref:   ***   ***   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 5  Del: 0  Total: 5)
+
+  585: 00009578_s009_t000
+       00009578_s009_t000
+  Ref:   ***   ***   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 5  Del: 0  Total: 5)
+
+  586: 00009578_s027_t010
+       00009578_s027_t010
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  587: 00009578_s027_t009
+       00009578_s027_t009
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  588: 00009578_s027_t005
+       00009578_s027_t005
+  Ref:   ***  bckg 
+  Hyp:  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  589: 00009578_s027_t000
+       00009578_s027_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  590: 00009578_s027_t006
+       00009578_s027_t006
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  591: 00009578_s027_t004
+       00009578_s027_t004
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  592: 00009578_s027_t003
+       00009578_s027_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  593: 00009578_s027_t008
+       00009578_s027_t008
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  594: 00009578_s027_t001
+       00009578_s027_t001
+  Ref:   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  595: 00009578_s027_t007
+       00009578_s027_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  596: 00009578_s027_t002
+       00009578_s027_t002
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  597: 00009578_s037_t001
+       00009578_s037_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  598: 00009578_s037_t006
+       00009578_s037_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  599: 00009578_s037_t002
+       00009578_s037_t002
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  600: 00009578_s037_t004
+       00009578_s037_t004
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  601: 00009578_s037_t000
+       00009578_s037_t000
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  602: 00009578_s037_t005
+       00009578_s037_t005
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  603: 00009578_s037_t003
+       00009578_s037_t003
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  604: 00009578_s011_t006
+       00009578_s011_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  605: 00009578_s011_t008
+       00009578_s011_t008
+  Ref:   ***   ***   ***  bckg  seiz  bckg  seiz  bckg 
+  Hyp:  BCKG  SEIZ  SEIZ  bckg  seiz  bckg  seiz  bckg 
+        (Hit: 5  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  606: 00009578_s011_t007
+       00009578_s011_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  607: 00009578_s011_t010
+       00009578_s011_t010
+  Ref:  BCKG  seiz  BCKG 
+  Hyp:   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  608: 00009578_s011_t002
+       00009578_s011_t002
+  Ref:  bckg   ***  seiz  bckg 
+  Hyp:  bckg  SEIZ  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  609: 00009578_s011_t004
+       00009578_s011_t004
+  Ref:   ***  bckg 
+  Hyp:  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  610: 00009578_s011_t000
+       00009578_s011_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  611: 00009578_s011_t003
+       00009578_s011_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  612: 00009578_s011_t001
+       00009578_s011_t001
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  613: 00009578_s011_t005
+       00009578_s011_t005
+  Ref:   ***   ***  bckg  seiz  bckg 
+  Hyp:  BCKG  SEIZ  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  614: 00009578_s017_t003
+       00009578_s017_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  615: 00009578_s017_t006
+       00009578_s017_t006
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  616: 00009578_s017_t002
+       00009578_s017_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  617: 00009578_s017_t004
+       00009578_s017_t004
+  Ref:   ***   ***   ***   ***  bckg  seiz  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 4  Del: 0  Total: 4)
+
+  618: 00009578_s017_t005
+       00009578_s017_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  619: 00009578_s017_t001
+       00009578_s017_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  620: 00009578_s017_t000
+       00009578_s017_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  621: 00009578_s031_t004
+       00009578_s031_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  622: 00009578_s031_t000
+       00009578_s031_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  623: 00009578_s031_t010
+       00009578_s031_t010
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  624: 00009578_s031_t013
+       00009578_s031_t013
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  625: 00009578_s031_t015
+       00009578_s031_t015
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  626: 00009578_s031_t006
+       00009578_s031_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  627: 00009578_s031_t009
+       00009578_s031_t009
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  628: 00009578_s031_t012
+       00009578_s031_t012
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  629: 00009578_s031_t014
+       00009578_s031_t014
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  630: 00009578_s031_t001
+       00009578_s031_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  631: 00009578_s031_t011
+       00009578_s031_t011
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  632: 00009578_s030_t004
+       00009578_s030_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  633: 00009578_s030_t000
+       00009578_s030_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  634: 00009578_s030_t003
+       00009578_s030_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  635: 00009578_s030_t005
+       00009578_s030_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  636: 00009578_s030_t001
+       00009578_s030_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  637: 00009578_s030_t002
+       00009578_s030_t002
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  638: 00009570_s001_t001
+       00009570_s001_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  639: 00009570_s001_t000
+       00009570_s001_t000
+  Ref:  bckg  seiz  bckg  seiz  bckg  seiz  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz  bckg  seiz  bckg  seiz  bckg  seiz   *** 
+        (Hit: 8  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  640: 00009570_s003_t005
+       00009570_s003_t005
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  641: 00009570_s003_t007
+       00009570_s003_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  642: 00009570_s003_t003
+       00009570_s003_t003
+  Ref:  bckg   ***   *** 
+  Hyp:  bckg  SEIZ  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  643: 00009570_s003_t002
+       00009570_s003_t002
+  Ref:   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  644: 00009570_s003_t001
+       00009570_s003_t001
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  645: 00009570_s003_t000
+       00009570_s003_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  646: 00009570_s003_t006
+       00009570_s003_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  647: 00009570_s003_t004
+       00009570_s003_t004
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  648: 00009570_s002_t003
+       00009570_s002_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  649: 00009570_s002_t005
+       00009570_s002_t005
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  650: 00009570_s002_t011
+       00009570_s002_t011
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  651: 00009570_s002_t000
+       00009570_s002_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  652: 00009570_s002_t004
+       00009570_s002_t004
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  653: 00009570_s002_t010
+       00009570_s002_t010
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  654: 00009570_s002_t008
+       00009570_s002_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  655: 00009570_s002_t009
+       00009570_s002_t009
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  656: 00009570_s002_t012
+       00009570_s002_t012
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  657: 00009570_s002_t006
+       00009570_s002_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  658: 00009570_s002_t001
+       00009570_s002_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  659: 00009570_s002_t002
+       00009570_s002_t002
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  660: 00010022_s002_t004
+       00010022_s002_t004
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  661: 00010022_s002_t000
+       00010022_s002_t000
+  Ref:   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  662: 00010022_s002_t001
+       00010022_s002_t001
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  663: 00010022_s002_t005
+       00010022_s002_t005
+  Ref:  bckg   ***   *** 
+  Hyp:  bckg  SEIZ  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  664: 00010022_s002_t002
+       00010022_s002_t002
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  665: 00010022_s002_t003
+       00010022_s002_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  666: 00010022_s005_t004
+       00010022_s005_t004
+  Ref:   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 4  Del: 0  Total: 4)
+
+  667: 00010022_s005_t006
+       00010022_s005_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  668: 00010022_s005_t001
+       00010022_s005_t001
+  Ref:   ***   ***   ***   ***  bckg  seiz  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 4  Del: 0  Total: 4)
+
+  669: 00010022_s005_t008
+       00010022_s005_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  670: 00010022_s005_t003
+       00010022_s005_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  671: 00010022_s005_t007
+       00010022_s005_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  672: 00010022_s005_t005
+       00010022_s005_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  673: 00010022_s005_t000
+       00010022_s005_t000
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  674: 00010022_s005_t009
+       00010022_s005_t009
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  675: 00010022_s005_t002
+       00010022_s005_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  676: 00010022_s001_t000
+       00010022_s001_t000
+  Ref:  BCKG  seiz  BCKG 
+  Hyp:   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  677: 00010022_s001_t001
+       00010022_s001_t001
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 9  Total: 9)
+
+  678: 00010022_s006_t001
+       00010022_s006_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  679: 00010022_s006_t000
+       00010022_s006_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  680: 00010022_s006_t002
+       00010022_s006_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  681: 00010022_s004_t009
+       00010022_s004_t009
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  682: 00010022_s004_t008
+       00010022_s004_t008
+  Ref:   ***   ***   ***   ***  bckg  seiz  bckg   *** 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg  SEIZ 
+        (Hit: 3  Sub: 0  Ins: 5  Del: 0  Total: 5)
+
+  683: 00010022_s004_t010
+       00010022_s004_t010
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  684: 00010022_s004_t001
+       00010022_s004_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  685: 00010022_s004_t003
+       00010022_s004_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  686: 00010022_s004_t011
+       00010022_s004_t011
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  687: 00010022_s004_t000
+       00010022_s004_t000
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  688: 00010022_s004_t002
+       00010022_s004_t002
+  Ref:   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 4  Del: 0  Total: 4)
+
+  689: 00010022_s004_t007
+       00010022_s004_t007
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  690: 00010022_s004_t004
+       00010022_s004_t004
+  Ref:   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  691: 00010022_s004_t006
+       00010022_s004_t006
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  692: 00010022_s004_t005
+       00010022_s004_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  693: 00010022_s003_t011
+       00010022_s003_t011
+  Ref:   ***  bckg 
+  Hyp:  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  694: 00010022_s003_t006
+       00010022_s003_t006
+  Ref:   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 4  Del: 0  Total: 4)
+
+  695: 00010022_s003_t008
+       00010022_s003_t008
+  Ref:   ***   ***   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 5  Del: 0  Total: 5)
+
+  696: 00010022_s003_t014
+       00010022_s003_t014
+  Ref:   ***   ***  bckg  seiz  bckg 
+  Hyp:  BCKG  SEIZ  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  697: 00010022_s003_t010
+       00010022_s003_t010
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  698: 00010022_s003_t012
+       00010022_s003_t012
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  699: 00010022_s003_t004
+       00010022_s003_t004
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  700: 00010022_s003_t013
+       00010022_s003_t013
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  701: 00010022_s003_t016
+       00010022_s003_t016
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  702: 00010022_s003_t017
+       00010022_s003_t017
+  Ref:   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  703: 00010022_s003_t015
+       00010022_s003_t015
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  704: 00010022_s003_t000
+       00010022_s003_t000
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  705: 00010022_s003_t001
+       00010022_s003_t001
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 6  Total: 6)
+
+  706: 00010062_s002_t000
+       00010062_s002_t000
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  707: 00010062_s006_t001
+       00010062_s006_t001
+  Ref:  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 3  Total: 3)
+
+  708: 00010062_s006_t002
+       00010062_s006_t002
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg 
+  Hyp:   ***   ***   ***   ***  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  709: 00010062_s006_t003
+       00010062_s006_t003
+  Ref:  BCKG  seiz  BCKG 
+  Hyp:   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  710: 00010062_s006_t000
+       00010062_s006_t000
+  Ref:  BCKG  seiz  BCKG 
+  Hyp:   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  711: 00010062_s008_t004
+       00010062_s008_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  712: 00010062_s008_t000
+       00010062_s008_t000
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  713: 00010062_s008_t003
+       00010062_s008_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  714: 00010062_s008_t002
+       00010062_s008_t002
+  Ref:  BCKG  seiz  BCKG 
+  Hyp:   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  715: 00010062_s008_t001
+       00010062_s008_t001
+  Ref:  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 3  Total: 3)
+
+  716: 00010062_s007_t000
+       00010062_s007_t000
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 6  Total: 6)
+
+  717: 00010062_s007_t001
+       00010062_s007_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  718: 00010062_s007_t002
+       00010062_s007_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  719: 00010062_s009_t001
+       00010062_s009_t001
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  720: 00010062_s005_t001
+       00010062_s005_t001
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  721: 00010062_s005_t000
+       00010062_s005_t000
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  722: 00010062_s003_t000
+       00010062_s003_t000
+  Ref:  BCKG  seiz  bckg 
+  Hyp:   ***  seiz  bckg 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  723: 00010062_s003_t003
+       00010062_s003_t003
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  724: 00010062_s003_t001
+       00010062_s003_t001
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  725: 00010062_s003_t002
+       00010062_s003_t002
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  726: 00010062_s004_t001
+       00010062_s004_t001
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz  bckg  seiz   *** 
+        (Hit: 4  Sub: 0  Ins: 0  Del: 13  Total: 13)
+
+  727: 00010062_s004_t002
+       00010062_s004_t002
+  Ref:  bckg  seiz  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz  bckg  seiz   *** 
+        (Hit: 4  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  728: 00010062_s004_t000
+       00010062_s004_t000
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  729: 00010062_s004_t003
+       00010062_s004_t003
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  730: 00010062_s001_t000
+       00010062_s001_t000
+  Ref:   ***   ***   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 5  Del: 0  Total: 5)
+
+  731: 00003281_s002_t000
+       00003281_s002_t000
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  732: 00010639_s003_t001
+       00010639_s003_t001
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg  seiz  bckg  seiz  bckg  seiz  bckg 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz  bckg  seiz  bckg  seiz  bckg  seiz  bckg 
+        (Hit: 9  Sub: 0  Ins: 0  Del: 8  Total: 8)
+
+  733: 00010639_s006_t000
+       00010639_s006_t000
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  734: 00010639_s002_t000
+       00010639_s002_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  735: 00010639_s008_t000
+       00010639_s008_t000
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  736: 00010639_s008_t003
+       00010639_s008_t003
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  737: 00010639_s008_t004
+       00010639_s008_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  738: 00010639_s008_t002
+       00010639_s008_t002
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  739: 00010639_s008_t001
+       00010639_s008_t001
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  740: 00010639_s001_t000
+       00010639_s001_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  741: 00010639_s004_t000
+       00010639_s004_t000
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 19  Total: 19)
+
+  742: 00007633_s004_t005
+       00007633_s004_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  743: 00007633_s004_t007
+       00007633_s004_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  744: 00007633_s004_t000
+       00007633_s004_t000
+  Ref:   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 4  Del: 0  Total: 4)
+
+  745: 00007633_s004_t002
+       00007633_s004_t002
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  746: 00007633_s004_t004
+       00007633_s004_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  747: 00007633_s004_t003
+       00007633_s004_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  748: 00007633_s004_t001
+       00007633_s004_t001
+  Ref:   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  749: 00007633_s002_t001
+       00007633_s002_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  750: 00007633_s003_t008
+       00007633_s003_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  751: 00007633_s003_t010
+       00007633_s003_t010
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  752: 00007633_s003_t007
+       00007633_s003_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  753: 00007633_s003_t000
+       00007633_s003_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  754: 00007633_s003_t005
+       00007633_s003_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  755: 00007633_s003_t011
+       00007633_s003_t011
+  Ref:   ***  bckg 
+  Hyp:  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  756: 00007633_s003_t002
+       00007633_s003_t002
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  757: 00007633_s003_t009
+       00007633_s003_t009
+  Ref:   ***  bckg 
+  Hyp:  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  758: 00007633_s003_t003
+       00007633_s003_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  759: 00007633_s003_t006
+       00007633_s003_t006
+  Ref:   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  760: 00007633_s003_t004
+       00007633_s003_t004
+  Ref:   ***  bckg 
+  Hyp:  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  761: 00007633_s003_t001
+       00007633_s003_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  762: 00007633_s001_t000
+       00007633_s001_t000
+  Ref:   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 4  Del: 0  Total: 4)
+
+  763: 00000629_s003_t000
+       00000629_s003_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  764: 00000629_s004_t000
+       00000629_s004_t000
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  765: 00000629_s004_t002
+       00000629_s004_t002
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  766: 00000629_s004_t003
+       00000629_s004_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  767: 00000629_s004_t001
+       00000629_s004_t001
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  768: 00002289_s008_t002
+       00002289_s008_t002
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  769: 00002289_s008_t000
+       00002289_s008_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  770: 00002289_s008_t001
+       00002289_s008_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  771: 00002289_s002_t000
+       00002289_s002_t000
+  Ref:   ***   ***   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 5  Del: 0  Total: 5)
+
+  772: 00002289_s005_t001
+       00002289_s005_t001
+  Ref:   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  773: 00002289_s005_t004
+       00002289_s005_t004
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  774: 00002289_s005_t002
+       00002289_s005_t002
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  775: 00002289_s005_t003
+       00002289_s005_t003
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  776: 00002289_s005_t000
+       00002289_s005_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  777: 00002289_s005_t005
+       00002289_s005_t005
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  778: 00002289_s003_t010
+       00002289_s003_t010
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  779: 00002289_s003_t008
+       00002289_s003_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  780: 00002289_s003_t011
+       00002289_s003_t011
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  781: 00002289_s003_t006
+       00002289_s003_t006
+  Ref:   ***   ***   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 5  Del: 0  Total: 5)
+
+  782: 00002289_s003_t012
+       00002289_s003_t012
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  783: 00002289_s003_t013
+       00002289_s003_t013
+  Ref:   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  784: 00002289_s003_t001
+       00002289_s003_t001
+  Ref:   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 4  Del: 0  Total: 4)
+
+  785: 00002289_s003_t003
+       00002289_s003_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  786: 00002289_s003_t004
+       00002289_s003_t004
+  Ref:   ***  bckg 
+  Hyp:  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  787: 00002289_s003_t007
+       00002289_s003_t007
+  Ref:   ***   ***   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 5  Del: 0  Total: 5)
+
+  788: 00002289_s003_t009
+       00002289_s003_t009
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  789: 00002289_s003_t005
+       00002289_s003_t005
+  Ref:   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  790: 00002289_s003_t000
+       00002289_s003_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  791: 00002289_s007_t003
+       00002289_s007_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  792: 00002289_s007_t004
+       00002289_s007_t004
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  793: 00002289_s007_t002
+       00002289_s007_t002
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  794: 00002289_s007_t001
+       00002289_s007_t001
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  795: 00002289_s007_t000
+       00002289_s007_t000
+  Ref:   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  796: 00002289_s004_t006
+       00002289_s004_t006
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  797: 00002289_s004_t000
+       00002289_s004_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  798: 00002289_s004_t011
+       00002289_s004_t011
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  799: 00002289_s004_t005
+       00002289_s004_t005
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  800: 00002289_s004_t010
+       00002289_s004_t010
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  801: 00002289_s009_t002
+       00002289_s009_t002
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  802: 00002289_s009_t003
+       00002289_s009_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  803: 00002289_s009_t000
+       00002289_s009_t000
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  804: 00005031_s003_t001
+       00005031_s003_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  805: 00010106_s003_t001
+       00010106_s003_t001
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  806: 00010106_s003_t002
+       00010106_s003_t002
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  807: 00010106_s003_t004
+       00010106_s003_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  808: 00010106_s003_t003
+       00010106_s003_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  809: 00010106_s003_t000
+       00010106_s003_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  810: 00010106_s004_t001
+       00010106_s004_t001
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  811: 00010106_s004_t002
+       00010106_s004_t002
+  Ref:   ***   ***   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 6  Del: 0  Total: 6)
+
+  812: 00010106_s004_t000
+       00010106_s004_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  813: 00010106_s002_t000
+       00010106_s002_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  814: 00010106_s002_t003
+       00010106_s002_t003
+  Ref:  bckg  seiz  bckg   *** 
+  Hyp:  bckg  seiz  bckg  SEIZ 
+        (Hit: 3  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  815: 00010106_s002_t006
+       00010106_s002_t006
+  Ref:  bckg  seiz  bckg   *** 
+  Hyp:  bckg  seiz  bckg  SEIZ 
+        (Hit: 3  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  816: 00010106_s002_t005
+       00010106_s002_t005
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  817: 00010106_s002_t007
+       00010106_s002_t007
+  Ref:  bckg   ***   *** 
+  Hyp:  bckg  SEIZ  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  818: 00010106_s002_t001
+       00010106_s002_t001
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  819: 00010106_s002_t002
+       00010106_s002_t002
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  820: 00010106_s002_t004
+       00010106_s002_t004
+  Ref:  bckg   ***  seiz  bckg  seiz  bckg 
+  Hyp:  bckg  SEIZ  seiz  bckg  seiz  bckg 
+        (Hit: 5  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  821: 00010106_s001_t000
+       00010106_s001_t000
+  Ref:  bckg  seiz  bckg   *** 
+  Hyp:  bckg  seiz  bckg  SEIZ 
+        (Hit: 3  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  822: 00010861_s001_t000
+       00010861_s001_t000
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 5  Total: 5)
+
+  823: 00004671_s007_t000
+       00004671_s007_t000
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 78  Total: 78)
+
+  824: 00004671_s008_t000
+       00004671_s008_t000
+  Ref:   ***   ***   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 5  Del: 0  Total: 5)
+
+  825: 00004671_s010_t000
+       00004671_s010_t000
+  Ref:   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  826: 00004671_s011_t002
+       00004671_s011_t002
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  827: 00004671_s011_t006
+       00004671_s011_t006
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  828: 00004671_s011_t003
+       00004671_s011_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  829: 00004671_s011_t004
+       00004671_s011_t004
+  Ref:   ***  bckg 
+  Hyp:  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  830: 00004671_s011_t008
+       00004671_s011_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  831: 00004671_s011_t010
+       00004671_s011_t010
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  832: 00004671_s011_t007
+       00004671_s011_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  833: 00004671_s011_t009
+       00004671_s011_t009
+  Ref:   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  834: 00004671_s011_t000
+       00004671_s011_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  835: 00004671_s011_t005
+       00004671_s011_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  836: 00004671_s011_t001
+       00004671_s011_t001
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  837: 00004671_s006_t000
+       00004671_s006_t000
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  838: 00004671_s009_t001
+       00004671_s009_t001
+  Ref:   ***   ***   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 5  Del: 0  Total: 5)
+
+  839: 00004671_s009_t000
+       00004671_s009_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  840: 00001027_s003_t000
+       00001027_s003_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  841: 00001027_s003_t001
+       00001027_s003_t001
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  842: 00001027_s004_t000
+       00001027_s004_t000
+  Ref:  BCKG  seiz  BCKG 
+  Hyp:   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  843: 00001027_s004_t001
+       00001027_s004_t001
+  Ref:  BCKG  seiz  BCKG 
+  Hyp:   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  844: 00001027_s004_t003
+       00001027_s004_t003
+  Ref:   ***  bckg 
+  Hyp:  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  845: 00001027_s004_t002
+       00001027_s004_t002
+  Ref:  BCKG  seiz  BCKG 
+  Hyp:   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  846: 00009866_s004_t005
+       00009866_s004_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  847: 00009866_s004_t007
+       00009866_s004_t007
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  848: 00009866_s004_t000
+       00009866_s004_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  849: 00009866_s004_t010
+       00009866_s004_t010
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  850: 00009866_s004_t004
+       00009866_s004_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  851: 00009866_s004_t009
+       00009866_s004_t009
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  852: 00009866_s004_t003
+       00009866_s004_t003
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  853: 00009866_s004_t006
+       00009866_s004_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  854: 00009866_s004_t002
+       00009866_s004_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  855: 00009866_s004_t001
+       00009866_s004_t001
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  856: 00009866_s004_t008
+       00009866_s004_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  857: 00009866_s005_t001
+       00009866_s005_t001
+  Ref:   ***   ***   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 5  Del: 0  Total: 5)
+
+  858: 00009866_s003_t003
+       00009866_s003_t003
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg  seiz  bckg  seiz  bckg 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz  bckg  seiz  bckg  seiz  bckg 
+        (Hit: 7  Sub: 0  Ins: 0  Del: 14  Total: 14)
+
+  859: 00009866_s003_t008
+       00009866_s003_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  860: 00009866_s003_t004
+       00009866_s003_t004
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg  seiz  bckg 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz  bckg  seiz  bckg 
+        (Hit: 5  Sub: 0  Ins: 0  Del: 10  Total: 10)
+
+  861: 00009866_s003_t006
+       00009866_s003_t006
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 13  Total: 13)
+
+  862: 00009866_s003_t001
+       00009866_s003_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  863: 00009866_s003_t002
+       00009866_s003_t002
+  Ref:  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 3  Total: 3)
+
+  864: 00009866_s003_t005
+       00009866_s003_t005
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 8  Total: 8)
+
+  865: 00009866_s003_t007
+       00009866_s003_t007
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 18  Total: 18)
+
+  866: 00009866_s001_t000
+       00009866_s001_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  867: 00009866_s002_t001
+       00009866_s002_t001
+  Ref:  BCKG  seiz  BCKG 
+  Hyp:   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  868: 00009866_s002_t002
+       00009866_s002_t002
+  Ref:  BCKG  seiz  bckg 
+  Hyp:   ***  seiz  bckg 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  869: 00009839_s009_t000
+       00009839_s009_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  870: 00009839_s003_t000
+       00009839_s003_t000
+  Ref:   ***   ***   ***   ***   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 6  Del: 0  Total: 6)
+
+  871: 00009839_s011_t008
+       00009839_s011_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  872: 00009839_s011_t003
+       00009839_s011_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  873: 00009839_s011_t001
+       00009839_s011_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  874: 00009839_s011_t007
+       00009839_s011_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  875: 00009839_s011_t004
+       00009839_s011_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  876: 00009839_s011_t002
+       00009839_s011_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  877: 00009839_s011_t005
+       00009839_s011_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  878: 00009839_s011_t009
+       00009839_s011_t009
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  879: 00009839_s011_t006
+       00009839_s011_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  880: 00009839_s010_t000
+       00009839_s010_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  881: 00009839_s004_t002
+       00009839_s004_t002
+  Ref:  BCKG  SEIZ  bckg  seiz  bckg 
+  Hyp:   ***   ***  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  882: 00009839_s004_t001
+       00009839_s004_t001
+  Ref:  bckg  seiz  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg  seiz  bckg 
+        (Hit: 5  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  883: 00009839_s007_t004
+       00009839_s007_t004
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  884: 00009839_s007_t013
+       00009839_s007_t013
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  885: 00009839_s007_t011
+       00009839_s007_t011
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  886: 00009839_s007_t010
+       00009839_s007_t010
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  887: 00009839_s007_t001
+       00009839_s007_t001
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  888: 00009839_s007_t006
+       00009839_s007_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  889: 00009839_s007_t002
+       00009839_s007_t002
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  890: 00009839_s007_t014
+       00009839_s007_t014
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  891: 00009839_s007_t000
+       00009839_s007_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  892: 00009839_s007_t005
+       00009839_s007_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  893: 00009839_s007_t012
+       00009839_s007_t012
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  894: 00009839_s007_t007
+       00009839_s007_t007
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  895: 00009839_s007_t003
+       00009839_s007_t003
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  896: 00009839_s007_t009
+       00009839_s007_t009
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  897: 00009839_s005_t001
+       00009839_s005_t001
+  Ref:  bckg  seiz  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg  seiz  bckg 
+        (Hit: 5  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  898: 00009839_s005_t021
+       00009839_s005_t021
+  Ref:  BCKG  SEIZ  bckg  seiz  bckg 
+  Hyp:   ***   ***  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  899: 00009839_s005_t027
+       00009839_s005_t027
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  900: 00009839_s005_t006
+       00009839_s005_t006
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  901: 00009839_s005_t002
+       00009839_s005_t002
+  Ref:  bckg  seiz  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg  seiz  bckg 
+        (Hit: 5  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  902: 00009839_s005_t008
+       00009839_s005_t008
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  903: 00009839_s005_t016
+       00009839_s005_t016
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  904: 00009839_s005_t023
+       00009839_s005_t023
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  905: 00009839_s005_t009
+       00009839_s005_t009
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  906: 00009839_s005_t020
+       00009839_s005_t020
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  907: 00009839_s005_t026
+       00009839_s005_t026
+  Ref:   ***   ***  bckg  seiz  bckg 
+  Hyp:  BCKG  SEIZ  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  908: 00009839_s005_t012
+       00009839_s005_t012
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  909: 00009839_s005_t015
+       00009839_s005_t015
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  910: 00009839_s005_t003
+       00009839_s005_t003
+  Ref:  BCKG  SEIZ  bckg  seiz  bckg  seiz  bckg  seiz  bckg 
+  Hyp:   ***   ***  bckg  seiz  bckg  seiz  bckg  seiz  bckg 
+        (Hit: 7  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  911: 00009839_s005_t017
+       00009839_s005_t017
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  912: 00009839_s005_t019
+       00009839_s005_t019
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  913: 00009839_s005_t007
+       00009839_s005_t007
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  914: 00009839_s005_t024
+       00009839_s005_t024
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  915: 00009839_s005_t004
+       00009839_s005_t004
+  Ref:  bckg  seiz  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz  bckg  seiz   *** 
+        (Hit: 4  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  916: 00009839_s005_t025
+       00009839_s005_t025
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  917: 00009839_s005_t013
+       00009839_s005_t013
+  Ref:  BCKG  SEIZ  bckg  seiz  bckg 
+  Hyp:   ***   ***  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  918: 00009839_s005_t018
+       00009839_s005_t018
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  919: 00009839_s005_t010
+       00009839_s005_t010
+  Ref:  BCKG  SEIZ  bckg  seiz  bckg 
+  Hyp:   ***   ***  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  920: 00009839_s005_t000
+       00009839_s005_t000
+  Ref:   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  921: 00009839_s005_t011
+       00009839_s005_t011
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  922: 00009839_s005_t014
+       00009839_s005_t014
+  Ref:  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 3  Total: 3)
+
+  923: 00009839_s005_t005
+       00009839_s005_t005
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  924: 00009839_s005_t022
+       00009839_s005_t022
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  925: 00009839_s008_t000
+       00009839_s008_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  926: 00009839_s008_t006
+       00009839_s008_t006
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  927: 00009839_s008_t007
+       00009839_s008_t007
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  928: 00009839_s008_t004
+       00009839_s008_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  929: 00009839_s008_t002
+       00009839_s008_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  930: 00009839_s008_t008
+       00009839_s008_t008
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  931: 00009839_s008_t005
+       00009839_s008_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  932: 00009839_s008_t003
+       00009839_s008_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  933: 00009839_s008_t001
+       00009839_s008_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  934: 00009839_s001_t001
+       00009839_s001_t001
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  935: 00009839_s001_t000
+       00009839_s001_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  936: 00009839_s002_t000
+       00009839_s002_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  937: 00009842_s001_t000
+       00009842_s001_t000
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  bckg  seiz  bckg 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz  bckg  seiz  bckg 
+        (Hit: 5  Sub: 0  Ins: 0  Del: 14  Total: 14)
+
+  938: 00009842_s002_t000
+       00009842_s002_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  939: 00009842_s002_t002
+       00009842_s002_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  940: 00009842_s002_t001
+       00009842_s002_t001
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 28  Total: 28)
+
+  941: 00009842_s002_t003
+       00009842_s002_t003
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  942: 00009842_s002_t004
+       00009842_s002_t004
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  943: 00009842_s002_t005
+       00009842_s002_t005
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  944: 00004594_s004_t000
+       00004594_s004_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  945: 00004594_s003_t000
+       00004594_s003_t000
+  Ref:   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  946: 00006546_s011_t002
+       00006546_s011_t002
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  947: 00006546_s011_t003
+       00006546_s011_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  948: 00006546_s011_t000
+       00006546_s011_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  949: 00006546_s011_t001
+       00006546_s011_t001
+  Ref:   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  950: 00006546_s011_t006
+       00006546_s011_t006
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  951: 00006546_s011_t004
+       00006546_s011_t004
+  Ref:   ***  bckg 
+  Hyp:  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  952: 00006546_s011_t005
+       00006546_s011_t005
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  953: 00006546_s011_t007
+       00006546_s011_t007
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  954: 00006546_s010_t000
+       00006546_s010_t000
+  Ref:   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  955: 00006546_s010_t003
+       00006546_s010_t003
+  Ref:   ***   ***   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 5  Del: 0  Total: 5)
+
+  956: 00006546_s010_t002
+       00006546_s010_t002
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  957: 00006546_s010_t001
+       00006546_s010_t001
+  Ref:   ***   ***  bckg   *** 
+  Hyp:  BCKG  SEIZ  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 3  Del: 0  Total: 3)
+
+  958: 00006546_s010_t004
+       00006546_s010_t004
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  959: 00006546_s010_t005
+       00006546_s010_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  960: 00006546_s012_t002
+       00006546_s012_t002
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  961: 00006546_s012_t000
+       00006546_s012_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  962: 00006546_s012_t001
+       00006546_s012_t001
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  963: 00006546_s012_t003
+       00006546_s012_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  964: 00006546_s012_t004
+       00006546_s012_t004
+  Ref:  bckg  seiz  bckg   *** 
+  Hyp:  bckg  seiz  bckg  SEIZ 
+        (Hit: 3  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  965: 00006546_s015_t000
+       00006546_s015_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  966: 00006546_s013_t003
+       00006546_s013_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  967: 00006546_s013_t001
+       00006546_s013_t001
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  968: 00006546_s013_t002
+       00006546_s013_t002
+  Ref:   ***  bckg 
+  Hyp:  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  969: 00006546_s013_t000
+       00006546_s013_t000
+  Ref:  BCKG  seiz  BCKG 
+  Hyp:   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  970: 00006546_s016_t001
+       00006546_s016_t001
+  Ref:  BCKG  seiz  BCKG 
+  Hyp:   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  971: 00006546_s016_t000
+       00006546_s016_t000
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  972: 00005479_s006_t000
+       00005479_s006_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  973: 00005479_s006_t002
+       00005479_s006_t002
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  974: 00005479_s006_t003
+       00005479_s006_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  975: 00005479_s006_t005
+       00005479_s006_t005
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  976: 00005479_s006_t008
+       00005479_s006_t008
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  977: 00005479_s006_t006
+       00005479_s006_t006
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  978: 00005479_s006_t001
+       00005479_s006_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  979: 00005479_s006_t011
+       00005479_s006_t011
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  980: 00005479_s006_t010
+       00005479_s006_t010
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+  981: 00005479_s006_t007
+       00005479_s006_t007
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  982: 00005479_s006_t009
+       00005479_s006_t009
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  983: 00005479_s006_t004
+       00005479_s006_t004
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  984: 00005479_s005_t002
+       00005479_s005_t002
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  985: 00005479_s005_t003
+       00005479_s005_t003
+  Ref:  BCKG  seiz  BCKG 
+  Hyp:   ***  seiz   *** 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  986: 00005479_s005_t006
+       00005479_s005_t006
+  Ref:  BCKG  seiz  bckg 
+  Hyp:   ***  seiz  bckg 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  987: 00005479_s005_t007
+       00005479_s005_t007
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 4  Total: 4)
+
+  988: 00005479_s005_t005
+       00005479_s005_t005
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  989: 00005479_s005_t009
+       00005479_s005_t009
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+  990: 00005479_s005_t008
+       00005479_s005_t008
+  Ref:  BCKG  SEIZ  bckg 
+  Hyp:   ***   ***  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 2  Total: 2)
+
+  991: 00005479_s005_t000
+       00005479_s005_t000
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+  992: 00005479_s005_t001
+       00005479_s005_t001
+  Ref:  BCKG 
+  Hyp:  SEIZ 
+        (Hit: 0  Sub: 1  Ins: 0  Del: 0  Total: 1)
+
+  993: 00005479_s005_t004
+       00005479_s005_t004
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  994: 00002297_s003_t000
+       00002297_s003_t000
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 5  Total: 5)
+
+  995: 00002297_s003_t002
+       00002297_s003_t002
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 5  Total: 5)
+
+  996: 00002297_s003_t003
+       00002297_s003_t003
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+  997: 00002297_s003_t001
+       00002297_s003_t001
+  Ref:  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***   ***   ***   ***   ***   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 9  Total: 9)
+
+  998: 00002297_s004_t001
+       00002297_s004_t001
+  Ref:  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 3  Total: 3)
+
+  999: 00002297_s004_t000
+       00002297_s004_t000
+  Ref:  BCKG  SEIZ  bckg  seiz  BCKG 
+  Hyp:   ***   ***  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 3  Total: 3)
+
+ 1000: 00005943_s004_t002
+       00005943_s004_t002
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+ 1001: 00005943_s004_t003
+       00005943_s004_t003
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+ 1002: 00005943_s004_t001
+       00005943_s004_t001
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+ 1003: 00005943_s004_t000
+       00005943_s004_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+ 1004: 00005943_s002_t003
+       00005943_s002_t003
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+ 1005: 00005943_s002_t001
+       00005943_s002_t001
+  Ref:  bckg   *** 
+  Hyp:  bckg  SEIZ 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+ 1006: 00005943_s002_t002
+       00005943_s002_t002
+  Ref:  bckg  seiz  BCKG 
+  Hyp:  bckg  seiz   *** 
+        (Hit: 2  Sub: 0  Ins: 0  Del: 1  Total: 1)
+
+ 1007: 00005943_s002_t000
+       00005943_s002_t000
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+ 1008: 00004087_s003_t001
+       00004087_s003_t001
+  Ref:  bckg 
+  Hyp:  bckg 
+        (Hit: 1  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+ 1009: 00004087_s003_t003
+       00004087_s003_t003
+  Ref:   ***  bckg 
+  Hyp:  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 1  Del: 0  Total: 1)
+
+ 1010: 00004087_s003_t002
+       00004087_s003_t002
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+
+ 1011: 00004087_s003_t000
+       00004087_s003_t000
+  Ref:   ***   ***  bckg 
+  Hyp:  BCKG  SEIZ  bckg 
+        (Hit: 1  Sub: 0  Ins: 2  Del: 0  Total: 2)
+
+ 1012: 00004087_s003_t004
+       00004087_s003_t004
+  Ref:  bckg  seiz  bckg 
+  Hyp:  bckg  seiz  bckg 
+        (Hit: 3  Sub: 0  Ins: 0  Del: 0  Total: 0)
+

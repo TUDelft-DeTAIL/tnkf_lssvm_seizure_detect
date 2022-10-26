@@ -1,0 +1,6108 @@
+    0: 00000016_s007_t002
+       00000016_s007_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+    1: 00000016_s007_t003
+       00000016_s007_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+    2: 00000016_s007_t005
+       00000016_s007_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+    3: 00000016_s007_t004
+       00000016_s007_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+    4: 00000016_s007_t001
+       00000016_s007_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3090  Miss: 0.6910  False Alarms: 1.0000  Total: 1.6910)
+
+    5: 00000016_s007_t000
+       00000016_s007_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+    6: 00000016_s009_t000
+       00000016_s009_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+    7: 00000016_s009_t002
+       00000016_s009_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+    8: 00000016_s009_t001
+       00000016_s009_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3659  Miss: 0.6341  False Alarms: 1.0000  Total: 1.6341)
+
+    9: 00000016_s006_t000
+       00000016_s006_t000
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 4.0532  Miss: 4.9468  False Alarms: 2.7043  Total: 7.6511)
+
+   10: 00011902_s001_t004
+       00011902_s001_t004
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 0.0629  Total: 2.0629)
+
+   11: 00011902_s003_t006
+       00011902_s003_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   12: 00011902_s003_t009
+       00011902_s003_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   13: 00011902_s003_t010
+       00011902_s003_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   14: 00011902_s003_t004
+       00011902_s003_t004
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.6110  Miss: 0.3890  False Alarms: 0.1977  Total: 0.5866)
+
+   15: 00011902_s003_t002
+       00011902_s003_t002
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 6.0000  False Alarms: 1.0000  Total: 7.0000)
+
+   16: 00011902_s003_t008
+       00011902_s003_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   17: 00011902_s003_t000
+       00011902_s003_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   18: 00011902_s003_t007
+       00011902_s003_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   19: 00011902_s003_t001
+       00011902_s003_t001
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0648  Total: 3.0648)
+
+   20: 00011902_s004_t009
+       00011902_s004_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   21: 00011902_s004_t003
+       00011902_s004_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   22: 00011902_s004_t011
+       00011902_s004_t011
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5940  Miss: 0.4060  False Alarms: 1.0000  Total: 1.4060)
+
+   23: 00011902_s004_t010
+       00011902_s004_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   24: 00011902_s004_t005
+       00011902_s004_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   25: 00011902_s004_t000
+       00011902_s004_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   26: 00011902_s004_t004
+       00011902_s004_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   27: 00011902_s004_t001
+       00011902_s004_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   28: 00011902_s004_t007
+       00011902_s004_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   29: 00011902_s004_t002
+       00011902_s004_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   30: 00011902_s004_t006
+       00011902_s004_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   31: 00011902_s004_t008
+       00011902_s004_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   32: 00011903_s002_t005
+       00011903_s002_t005
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.5783  Miss: 0.4217  False Alarms: 0.7317  Total: 1.1534)
+
+   33: 00011903_s002_t013
+       00011903_s002_t013
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   34: 00011903_s002_t003
+       00011903_s002_t003
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.7140  Miss: 1.2860  False Alarms: 0.9040  Total: 2.1900)
+
+   35: 00011903_s002_t010
+       00011903_s002_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   36: 00011903_s002_t008
+       00011903_s002_t008
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.8873  Miss: 1.1127  False Alarms: 0.7771  Total: 1.8898)
+
+   37: 00011903_s002_t011
+       00011903_s002_t011
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   38: 00011903_s002_t004
+       00011903_s002_t004
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 2.9780  Miss: 2.0220  False Alarms: 1.4861  Total: 3.5081)
+
+   39: 00011903_s002_t001
+       00011903_s002_t001
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.7647  Miss: 3.2353  False Alarms: 1.2823  Total: 4.5176)
+
+   40: 00011903_s002_t006
+       00011903_s002_t006
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 4.2695  Miss: 0.7305  False Alarms: 0.2253  Total: 0.9559)
+
+   41: 00011903_s002_t002
+       00011903_s002_t002
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 5.8121  Miss: 1.1879  False Alarms: 1.2268  Total: 2.4147)
+
+   42: 00011903_s002_t012
+       00011903_s002_t012
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   43: 00011903_s002_t014
+       00011903_s002_t014
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   44: 00011903_s002_t007
+       00011903_s002_t007
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.7428  Miss: 1.2572  False Alarms: 0.6484  Total: 1.9056)
+
+   45: 00011903_s002_t000
+       00011903_s002_t000
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 3.0575  Miss: 3.9425  False Alarms: 1.2054  Total: 5.1479)
+
+   46: 00011903_s003_t009
+       00011903_s003_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+   47: 00011903_s003_t004
+       00011903_s003_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   48: 00011903_s003_t007
+       00011903_s003_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   49: 00011903_s003_t000
+       00011903_s003_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   50: 00011903_s003_t002
+       00011903_s003_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   51: 00011903_s003_t006
+       00011903_s003_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   52: 00011903_s003_t008
+       00011903_s003_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   53: 00011903_s003_t003
+       00011903_s003_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   54: 00011903_s003_t005
+       00011903_s003_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   55: 00011903_s003_t001
+       00011903_s003_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   56: 00011903_s001_t007
+       00011903_s001_t007
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.8671  Miss: 0.1329  False Alarms: 0.3811  Total: 0.5141)
+
+   57: 00011903_s001_t003
+       00011903_s001_t003
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 2.4719  Miss: 2.5281  False Alarms: 1.3549  Total: 3.8830)
+
+   58: 00011903_s001_t004
+       00011903_s001_t004
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 3.9252  Miss: 1.0748  False Alarms: 1.6920  Total: 2.7667)
+
+   59: 00011903_s001_t001
+       00011903_s001_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   60: 00011903_s001_t002
+       00011903_s001_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   61: 00011903_s001_t005
+       00011903_s001_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.9000  Miss: 0.1000  False Alarms: 1.0000  Total: 1.1000)
+
+   62: 00011903_s001_t000
+       00011903_s001_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   63: 00011903_s001_t006
+       00011903_s001_t006
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.4846  Miss: 0.5154  False Alarms: 1.0566  Total: 1.5721)
+
+   64: 00011497_s002_t000
+       00011497_s002_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   65: 00011497_s002_t002
+       00011497_s002_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   66: 00011497_s002_t001
+       00011497_s002_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5861  Miss: 0.4139  False Alarms: 2.0000  Total: 2.4139)
+
+   67: 00011497_s004_t001
+       00011497_s004_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   68: 00011497_s004_t000
+       00011497_s004_t000
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+   69: 00011497_s006_t000
+       00011497_s006_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.1552  Miss: 0.8448  False Alarms: 1.0000  Total: 1.8448)
+
+   70: 00011497_s006_t003
+       00011497_s006_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   71: 00011497_s006_t002
+       00011497_s006_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   72: 00011497_s006_t001
+       00011497_s006_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   73: 00011497_s003_t010
+       00011497_s003_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+   74: 00011497_s003_t008
+       00011497_s003_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   75: 00011497_s003_t006
+       00011497_s003_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   76: 00011497_s003_t004
+       00011497_s003_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   77: 00011497_s003_t009
+       00011497_s003_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0368  Miss: 0.9632  False Alarms: 1.0000  Total: 1.9632)
+
+   78: 00011497_s003_t000
+       00011497_s003_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   79: 00011497_s003_t007
+       00011497_s003_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   80: 00011497_s003_t003
+       00011497_s003_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   81: 00011497_s003_t005
+       00011497_s003_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   82: 00011497_s001_t001
+       00011497_s001_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   83: 00011497_s001_t002
+       00011497_s001_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.2281  Miss: 0.7719  False Alarms: 1.0000  Total: 1.7719)
+
+   84: 00011497_s001_t000
+       00011497_s001_t000
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.0070  Miss: 0.9930  False Alarms: 1.1650  Total: 2.1580)
+
+   85: 00011497_s005_t006
+       00011497_s005_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.1721  Miss: 0.8279  False Alarms: 1.0000  Total: 1.8279)
+
+   86: 00011497_s005_t011
+       00011497_s005_t011
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+   87: 00011497_s005_t003
+       00011497_s005_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   88: 00011497_s005_t012
+       00011497_s005_t012
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+   89: 00011497_s005_t010
+       00011497_s005_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6631  Miss: 0.3369  False Alarms: 1.0000  Total: 1.3369)
+
+   90: 00011497_s005_t004
+       00011497_s005_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   91: 00011497_s005_t005
+       00011497_s005_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   92: 00011497_s005_t000
+       00011497_s005_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   93: 00011497_s005_t001
+       00011497_s005_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   94: 00011497_s005_t002
+       00011497_s005_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.1479  Miss: 0.8521  False Alarms: 1.0000  Total: 1.8521)
+
+   95: 00011431_s003_t000
+       00011431_s003_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0159  Miss: 0.9841  False Alarms: 1.0000  Total: 1.9841)
+
+   96: 00011728_s010_t008
+       00011728_s010_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   97: 00011728_s010_t006
+       00011728_s010_t006
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 3.0000  Miss: 6.0000  False Alarms: 2.0166  Total: 8.0166)
+
+   98: 00011728_s010_t000
+       00011728_s010_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+   99: 00011728_s010_t001
+       00011728_s010_t001
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.8686  Miss: 1.1314  False Alarms: 1.0000  Total: 2.1314)
+
+  100: 00011728_s010_t004
+       00011728_s010_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  101: 00011728_s010_t009
+       00011728_s010_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  102: 00011728_s010_t010
+       00011728_s010_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  103: 00011728_s010_t007
+       00011728_s010_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3233  Miss: 0.6767  False Alarms: 1.0000  Total: 1.6767)
+
+  104: 00011728_s010_t005
+       00011728_s010_t005
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 0.4771  Total: 2.4771)
+
+  105: 00011728_s010_t003
+       00011728_s010_t003
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+  106: 00011728_s010_t002
+       00011728_s010_t002
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 4.0000  False Alarms: 1.0000  Total: 5.0000)
+
+  107: 00011728_s007_t001
+       00011728_s007_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7585  Miss: 0.2415  False Alarms: 1.0000  Total: 1.2415)
+
+  108: 00011728_s007_t004
+       00011728_s007_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  109: 00011728_s007_t008
+       00011728_s007_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  110: 00011728_s007_t005
+       00011728_s007_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  111: 00011728_s007_t000
+       00011728_s007_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  112: 00011728_s007_t006
+       00011728_s007_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  113: 00011728_s007_t009
+       00011728_s007_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.2133  Miss: 0.7867  False Alarms: 1.0000  Total: 1.7867)
+
+  114: 00011728_s007_t010
+       00011728_s007_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4859  Miss: 0.5141  False Alarms: 2.0000  Total: 2.5141)
+
+  115: 00011728_s007_t007
+       00011728_s007_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  116: 00011728_s007_t002
+       00011728_s007_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  117: 00011728_s007_t003
+       00011728_s007_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  118: 00012941_s004_t012
+       00012941_s004_t012
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.9334  Miss: 0.0666  False Alarms: 1.0000  Total: 1.0666)
+
+  119: 00012941_s004_t006
+       00012941_s004_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6667  Miss: 0.3333  False Alarms: 1.0000  Total: 1.3333)
+
+  120: 00012941_s004_t007
+       00012941_s004_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0033  Miss: 0.9967  False Alarms: 1.0000  Total: 1.9967)
+
+  121: 00012941_s004_t000
+       00012941_s004_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0133  Miss: 0.9867  False Alarms: 1.0000  Total: 1.9867)
+
+  122: 00012941_s004_t010
+       00012941_s004_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4210  Miss: 0.5790  False Alarms: 3.0000  Total: 3.5790)
+
+  123: 00012941_s004_t003
+       00012941_s004_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  124: 00012941_s004_t005
+       00012941_s004_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5092  Miss: 0.4908  False Alarms: 1.0000  Total: 1.4908)
+
+  125: 00012941_s004_t011
+       00012941_s004_t011
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0500  Miss: 0.9500  False Alarms: 1.0000  Total: 1.9500)
+
+  126: 00012941_s004_t008
+       00012941_s004_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  127: 00012941_s004_t001
+       00012941_s004_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  128: 00012941_s003_t009
+       00012941_s003_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  129: 00012941_s003_t007
+       00012941_s003_t007
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 0.8685  Total: 2.8685)
+
+  130: 00012941_s003_t006
+       00012941_s003_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0948  Miss: 0.9052  False Alarms: 1.0000  Total: 1.9052)
+
+  131: 00012941_s003_t003
+       00012941_s003_t003
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0066  Miss: 7.9934  False Alarms: 1.0000  Total: 8.9934)
+
+  132: 00012941_s003_t010
+       00012941_s003_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0233  Miss: 0.9767  False Alarms: 1.0000  Total: 1.9767)
+
+  133: 00012941_s003_t001
+       00012941_s003_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  134: 00012941_s003_t005
+       00012941_s003_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  135: 00012941_s003_t004
+       00012941_s003_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0100  Miss: 0.9900  False Alarms: 1.0000  Total: 1.9900)
+
+  136: 00012941_s001_t001
+       00012941_s001_t001
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 0.0035  Total: 2.0035)
+
+  137: 00012941_s001_t000
+       00012941_s001_t000
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.9601  Miss: 1.0399  False Alarms: 0.0837  Total: 1.1236)
+
+  138: 00012858_s001_t000
+       00012858_s001_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  139: 00012858_s003_t000
+       00012858_s003_t000
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+  140: 00012858_s003_t001
+       00012858_s003_t001
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+  141: 00012858_s002_t001
+       00012858_s002_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  142: 00012858_s002_t002
+       00012858_s002_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  143: 00012858_s002_t005
+       00012858_s002_t005
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+  144: 00012858_s002_t003
+       00012858_s002_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.9589  Miss: 0.0411  False Alarms: 1.0000  Total: 1.0411)
+
+  145: 00012858_s002_t007
+       00012858_s002_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  146: 00012858_s002_t011
+       00012858_s002_t011
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.2729  Miss: 0.7271  False Alarms: 2.0000  Total: 2.7271)
+
+  147: 00012858_s002_t000
+       00012858_s002_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  148: 00012858_s002_t006
+       00012858_s002_t006
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.9789  Miss: 1.0211  False Alarms: 1.0000  Total: 2.0211)
+
+  149: 00012858_s002_t004
+       00012858_s002_t004
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.9206  Miss: 0.0794  False Alarms: 0.0302  Total: 0.1096)
+
+  150: 00012858_s002_t010
+       00012858_s002_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8433  Miss: 0.1567  False Alarms: 1.0000  Total: 1.1567)
+
+  151: 00012858_s002_t009
+       00012858_s002_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  152: 00012858_s002_t008
+       00012858_s002_t008
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+  153: 00012870_s002_t003
+       00012870_s002_t003
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.9526  Miss: 0.0474  False Alarms: 0.0241  Total: 0.0715)
+
+  154: 00012870_s002_t005
+       00012870_s002_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7687  Miss: 0.2313  False Alarms: 2.0000  Total: 2.2313)
+
+  155: 00012870_s002_t004
+       00012870_s002_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  156: 00012870_s002_t001
+       00012870_s002_t001
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.4592  Miss: 1.5408  False Alarms: 0.4322  Total: 1.9730)
+
+  157: 00012870_s002_t006
+       00012870_s002_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  158: 00012870_s002_t002
+       00012870_s002_t002
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.9441  Miss: 0.0559  False Alarms: 0.0270  Total: 0.0830)
+
+  159: 00012870_s002_t007
+       00012870_s002_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  160: 00012870_s003_t002
+       00012870_s003_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0353  Miss: 0.9647  False Alarms: 1.0000  Total: 1.9647)
+
+  161: 00012870_s003_t011
+       00012870_s003_t011
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.2033  Miss: 0.7967  False Alarms: 1.0000  Total: 1.7967)
+
+  162: 00012870_s003_t016
+       00012870_s003_t016
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0283  Miss: 0.9717  False Alarms: 1.0000  Total: 1.9717)
+
+  163: 00012870_s003_t013
+       00012870_s003_t013
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  164: 00012870_s003_t009
+       00012870_s003_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8793  Miss: 0.1207  False Alarms: 1.0000  Total: 1.1207)
+
+  165: 00012870_s003_t006
+       00012870_s003_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.2067  Miss: 0.7933  False Alarms: 1.0000  Total: 1.7933)
+
+  166: 00012870_s003_t003
+       00012870_s003_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0532  Miss: 0.9468  False Alarms: 1.0000  Total: 1.9468)
+
+  167: 00012870_s003_t000
+       00012870_s003_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  168: 00012870_s003_t010
+       00012870_s003_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0171  Miss: 0.9829  False Alarms: 1.0000  Total: 1.9829)
+
+  169: 00012870_s003_t012
+       00012870_s003_t012
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  170: 00012870_s003_t008
+       00012870_s003_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7520  Miss: 0.2480  False Alarms: 1.0000  Total: 1.2480)
+
+  171: 00012870_s003_t015
+       00012870_s003_t015
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 6.0000  False Alarms: 1.0000  Total: 7.0000)
+
+  172: 00012870_s003_t001
+       00012870_s003_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.1272  Miss: 0.8728  False Alarms: 1.0000  Total: 1.8728)
+
+  173: 00012870_s003_t014
+       00012870_s003_t014
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  174: 00012870_s003_t005
+       00012870_s003_t005
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+  175: 00012870_s004_t001
+       00012870_s004_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.2263  Miss: 0.7737  False Alarms: 2.0000  Total: 2.7737)
+
+  176: 00012870_s004_t003
+       00012870_s004_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  177: 00012870_s004_t005
+       00012870_s004_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0167  Miss: 0.9833  False Alarms: 1.0000  Total: 1.9833)
+
+  178: 00012870_s004_t007
+       00012870_s004_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.9351  Miss: 0.0649  False Alarms: 1.0000  Total: 1.0649)
+
+  179: 00012870_s004_t009
+       00012870_s004_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8636  Miss: 0.1364  False Alarms: 1.0000  Total: 1.1364)
+
+  180: 00012870_s004_t008
+       00012870_s004_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  181: 00012870_s004_t004
+       00012870_s004_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4855  Miss: 0.5145  False Alarms: 1.0000  Total: 1.5145)
+
+  182: 00012870_s004_t000
+       00012870_s004_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0033  Miss: 0.9967  False Alarms: 1.0000  Total: 1.9967)
+
+  183: 00012870_s004_t006
+       00012870_s004_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4626  Miss: 0.5374  False Alarms: 1.0000  Total: 1.5374)
+
+  184: 00012870_s004_t002
+       00012870_s004_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5674  Miss: 0.4326  False Alarms: 1.0000  Total: 1.4326)
+
+  185: 00010434_s002_t001
+       00010434_s002_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  186: 00010434_s002_t002
+       00010434_s002_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  187: 00010434_s002_t014
+       00010434_s002_t014
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  188: 00010434_s002_t012
+       00010434_s002_t012
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  189: 00010434_s002_t015
+       00010434_s002_t015
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  190: 00010434_s002_t016
+       00010434_s002_t016
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  191: 00010434_s002_t011
+       00010434_s002_t011
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  192: 00010434_s002_t007
+       00010434_s002_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  193: 00010434_s002_t008
+       00010434_s002_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  194: 00010434_s002_t005
+       00010434_s002_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  195: 00010434_s002_t004
+       00010434_s002_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  196: 00010434_s002_t003
+       00010434_s002_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  197: 00010434_s002_t006
+       00010434_s002_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  198: 00010434_s002_t013
+       00010434_s002_t013
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 0.9077  Miss: 2.0923  False Alarms: 1.1630  Total: 3.2553)
+
+  199: 00010434_s002_t009
+       00010434_s002_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  200: 00010434_s002_t010
+       00010434_s002_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  201: 00012320_s006_t008
+       00012320_s006_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3967  Miss: 0.6033  False Alarms: 1.0000  Total: 1.6033)
+
+  202: 00012320_s006_t002
+       00012320_s006_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  203: 00012320_s006_t005
+       00012320_s006_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.1400  Miss: 0.8600  False Alarms: 1.0000  Total: 1.8600)
+
+  204: 00012320_s006_t001
+       00012320_s006_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.9484  Miss: 0.0516  False Alarms: 1.0000  Total: 1.0516)
+
+  205: 00012320_s006_t004
+       00012320_s006_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  206: 00012320_s006_t009
+       00012320_s006_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0316  Miss: 0.9684  False Alarms: 1.0000  Total: 1.9684)
+
+  207: 00012320_s006_t003
+       00012320_s006_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0067  Miss: 0.9933  False Alarms: 1.0000  Total: 1.9933)
+
+  208: 00012320_s006_t000
+       00012320_s006_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0800  Miss: 0.9200  False Alarms: 1.0000  Total: 1.9200)
+
+  209: 00012320_s006_t007
+       00012320_s006_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  210: 00012320_s006_t006
+       00012320_s006_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3960  Miss: 0.6040  False Alarms: 3.0000  Total: 3.6040)
+
+  211: 00012320_s003_t011
+       00012320_s003_t011
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8186  Miss: 0.1814  False Alarms: 1.0000  Total: 1.1814)
+
+  212: 00012320_s003_t001
+       00012320_s003_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3401  Miss: 0.6599  False Alarms: 1.0000  Total: 1.6599)
+
+  213: 00012320_s003_t009
+       00012320_s003_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5940  Miss: 0.4060  False Alarms: 2.0000  Total: 2.4060)
+
+  214: 00012320_s003_t003
+       00012320_s003_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0100  Miss: 0.9900  False Alarms: 1.0000  Total: 1.9900)
+
+  215: 00012320_s003_t006
+       00012320_s003_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  216: 00012320_s003_t010
+       00012320_s003_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  217: 00012320_s003_t005
+       00012320_s003_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6067  Miss: 0.3933  False Alarms: 1.0000  Total: 1.3933)
+
+  218: 00012320_s007_t002
+       00012320_s007_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0600  Miss: 0.9400  False Alarms: 1.0000  Total: 1.9400)
+
+  219: 00012320_s007_t004
+       00012320_s007_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0167  Miss: 0.9833  False Alarms: 1.0000  Total: 1.9833)
+
+  220: 00012320_s007_t008
+       00012320_s007_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0233  Miss: 0.9767  False Alarms: 1.0000  Total: 1.9767)
+
+  221: 00012320_s007_t009
+       00012320_s007_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0133  Miss: 0.9867  False Alarms: 1.0000  Total: 1.9867)
+
+  222: 00012320_s007_t001
+       00012320_s007_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0166  Miss: 0.9834  False Alarms: 1.0000  Total: 1.9834)
+
+  223: 00012320_s007_t007
+       00012320_s007_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.2047  Miss: 0.7953  False Alarms: 2.0000  Total: 2.7953)
+
+  224: 00012320_s007_t003
+       00012320_s007_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0532  Miss: 0.9468  False Alarms: 1.0000  Total: 1.9468)
+
+  225: 00012320_s007_t005
+       00012320_s007_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  226: 00012320_s007_t000
+       00012320_s007_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0633  Miss: 0.9367  False Alarms: 1.0000  Total: 1.9367)
+
+  227: 00012320_s007_t006
+       00012320_s007_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  228: 00012320_s005_t008
+       00012320_s005_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  229: 00012320_s005_t003
+       00012320_s005_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.2413  Miss: 0.7587  False Alarms: 2.0000  Total: 2.7587)
+
+  230: 00012320_s005_t011
+       00012320_s005_t011
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0417  Miss: 1.9583  False Alarms: 3.6196  Total: 5.5779)
+
+  231: 00012320_s005_t014
+       00012320_s005_t014
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0200  Miss: 0.9800  False Alarms: 1.0000  Total: 1.9800)
+
+  232: 00012320_s005_t010
+       00012320_s005_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  233: 00012320_s005_t004
+       00012320_s005_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  234: 00012320_s005_t007
+       00012320_s005_t007
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 0.4375  Miss: 2.5625  False Alarms: 3.0000  Total: 5.5625)
+
+  235: 00012320_s005_t002
+       00012320_s005_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5800  Miss: 0.4200  False Alarms: 2.0000  Total: 2.4200)
+
+  236: 00012320_s005_t012
+       00012320_s005_t012
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  237: 00012320_s005_t000
+       00012320_s005_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6533  Miss: 0.3467  False Alarms: 1.0000  Total: 1.3467)
+
+  238: 00012391_s004_t000
+       00012391_s004_t000
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 3.4479  Miss: 1.5521  False Alarms: 1.0787  Total: 2.6308)
+
+  239: 00012391_s007_t000
+       00012391_s007_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7491  Miss: 0.2509  False Alarms: 4.0000  Total: 4.2509)
+
+  240: 00012391_s008_t004
+       00012391_s008_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  241: 00012391_s008_t007
+       00012391_s008_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  242: 00012391_s008_t000
+       00012391_s008_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  243: 00012391_s008_t003
+       00012391_s008_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  244: 00012391_s008_t001
+       00012391_s008_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  245: 00012391_s008_t008
+       00012391_s008_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  246: 00012391_s008_t005
+       00012391_s008_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  247: 00012391_s008_t006
+       00012391_s008_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  248: 00012391_s008_t002
+       00012391_s008_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  249: 00012391_s003_t003
+       00012391_s003_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  250: 00012391_s003_t001
+       00012391_s003_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.9401  Miss: 0.0599  False Alarms: 1.0000  Total: 1.0599)
+
+  251: 00012391_s003_t000
+       00012391_s003_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  252: 00012391_s003_t004
+       00012391_s003_t004
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.8263  Miss: 0.1737  False Alarms: 0.0994  Total: 0.2731)
+
+  253: 00012391_s001_t000
+       00012391_s001_t000
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.6662  Miss: 3.3338  False Alarms: 2.0000  Total: 5.3338)
+
+  254: 00012391_s002_t000
+       00012391_s002_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  255: 00012391_s002_t006
+       00012391_s002_t006
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.7087  Miss: 1.2913  False Alarms: 2.1645  Total: 3.4559)
+
+  256: 00012391_s002_t002
+       00012391_s002_t002
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 2.8800  Miss: 2.1200  False Alarms: 1.3405  Total: 3.4605)
+
+  257: 00012391_s002_t007
+       00012391_s002_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8063  Miss: 0.1937  False Alarms: 1.0000  Total: 1.1937)
+
+  258: 00012391_s002_t004
+       00012391_s002_t004
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.4668  Miss: 0.5332  False Alarms: 2.0213  Total: 2.5545)
+
+  259: 00012391_s002_t003
+       00012391_s002_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  260: 00012391_s002_t001
+       00012391_s002_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  261: 00012391_s002_t005
+       00012391_s002_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4383  Miss: 0.5617  False Alarms: 2.0000  Total: 2.5617)
+
+  262: 00006171_s004_t007
+       00006171_s004_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3012  Miss: 0.6988  False Alarms: 2.0000  Total: 2.6988)
+
+  263: 00006171_s004_t005
+       00006171_s004_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6156  Miss: 0.3844  False Alarms: 1.0000  Total: 1.3844)
+
+  264: 00006171_s004_t004
+       00006171_s004_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4267  Miss: 0.5733  False Alarms: 1.0000  Total: 1.5733)
+
+  265: 00006171_s004_t006
+       00006171_s004_t006
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.4674  Miss: 1.5326  False Alarms: 1.0000  Total: 2.5326)
+
+  266: 00006171_s004_t001
+       00006171_s004_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  267: 00006171_s004_t002
+       00006171_s004_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  268: 00006171_s004_t003
+       00006171_s004_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0250  Miss: 0.9750  False Alarms: 1.0000  Total: 1.9750)
+
+  269: 00006171_s005_t002
+       00006171_s005_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0216  Miss: 0.9784  False Alarms: 1.0000  Total: 1.9784)
+
+  270: 00006171_s005_t000
+       00006171_s005_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0494  Miss: 0.9506  False Alarms: 1.0000  Total: 1.9506)
+
+  271: 00006171_s005_t003
+       00006171_s005_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  272: 00006171_s005_t004
+       00006171_s005_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  273: 00006171_s005_t005
+       00006171_s005_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0236  Miss: 0.9764  False Alarms: 1.0000  Total: 1.9764)
+
+  274: 00006171_s005_t001
+       00006171_s005_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3103  Miss: 0.6897  False Alarms: 1.0000  Total: 1.6897)
+
+  275: 00006171_s006_t002
+       00006171_s006_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.1197  Miss: 0.8803  False Alarms: 1.0000  Total: 1.8803)
+
+  276: 00006171_s006_t004
+       00006171_s006_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3602  Miss: 0.6398  False Alarms: 1.0000  Total: 1.6398)
+
+  277: 00006171_s006_t003
+       00006171_s006_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6319  Miss: 0.3681  False Alarms: 1.0000  Total: 1.3681)
+
+  278: 00006171_s006_t001
+       00006171_s006_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4472  Miss: 0.5528  False Alarms: 1.0000  Total: 1.5528)
+
+  279: 00006171_s006_t000
+       00006171_s006_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8351  Miss: 0.1649  False Alarms: 2.0000  Total: 2.1649)
+
+  280: 00006171_s006_t005
+       00006171_s006_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0338  Miss: 0.9662  False Alarms: 1.0000  Total: 1.9662)
+
+  281: 00012000_s001_t000
+       00012000_s001_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.9750  Miss: 0.0250  False Alarms: 1.0000  Total: 1.0250)
+
+  282: 00013002_s002_t000
+       00013002_s002_t000
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.8337  Miss: 0.1663  False Alarms: 0.1125  Total: 0.2788)
+
+  283: 00011332_s002_t011
+       00011332_s002_t011
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.3075  Miss: 1.6925  False Alarms: 0.4542  Total: 2.1467)
+
+  284: 00011332_s002_t012
+       00011332_s002_t012
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 0.1036  Total: 2.1036)
+
+  285: 00011332_s002_t007
+       00011332_s002_t007
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.3564  Miss: 1.6436  False Alarms: 1.0000  Total: 2.6436)
+
+  286: 00011332_s002_t010
+       00011332_s002_t010
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.8329  Miss: 3.1671  False Alarms: 3.0710  Total: 6.2380)
+
+  287: 00011332_s002_t001
+       00011332_s002_t001
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.6616  Miss: 1.3384  False Alarms: 0.3726  Total: 1.7110)
+
+  288: 00011332_s002_t000
+       00011332_s002_t000
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.5176  Miss: 1.4824  False Alarms: 1.0000  Total: 2.4824)
+
+  289: 00011332_s002_t003
+       00011332_s002_t003
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.7839  Miss: 1.2161  False Alarms: 1.4105  Total: 2.6265)
+
+  290: 00011332_s002_t008
+       00011332_s002_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  291: 00011332_s002_t002
+       00011332_s002_t002
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.7966  Miss: 1.2034  False Alarms: 1.0659  Total: 2.2693)
+
+  292: 00011332_s002_t006
+       00011332_s002_t006
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 0.2897  Total: 2.2897)
+
+  293: 00011332_s002_t004
+       00011332_s002_t004
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0030  Miss: 1.9970  False Alarms: 1.0000  Total: 2.9970)
+
+  294: 00011332_s002_t005
+       00011332_s002_t005
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.8414  Miss: 1.1586  False Alarms: 0.8534  Total: 2.0120)
+
+  295: 00011332_s002_t009
+       00011332_s002_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  296: 00011332_s001_t000
+       00011332_s001_t000
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 4.3553  Miss: 2.6447  False Alarms: 3.0884  Total: 5.7331)
+
+  297: 00011326_s006_t007
+       00011326_s006_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  298: 00011326_s006_t003
+       00011326_s006_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.2478  Miss: 0.7522  False Alarms: 2.0000  Total: 2.7522)
+
+  299: 00011326_s006_t000
+       00011326_s006_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0733  Miss: 0.9267  False Alarms: 1.0000  Total: 1.9267)
+
+  300: 00011326_s006_t002
+       00011326_s006_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0030  Miss: 0.9970  False Alarms: 1.0000  Total: 1.9970)
+
+  301: 00011326_s006_t005
+       00011326_s006_t005
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0287  Miss: 1.9713  False Alarms: 1.0000  Total: 2.9713)
+
+  302: 00011326_s006_t001
+       00011326_s006_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  303: 00011326_s006_t004
+       00011326_s006_t004
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.1130  Miss: 1.8870  False Alarms: 2.0000  Total: 3.8870)
+
+  304: 00011326_s006_t008
+       00011326_s006_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.2080  Miss: 0.7920  False Alarms: 1.0000  Total: 1.7920)
+
+  305: 00011326_s006_t006
+       00011326_s006_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  306: 00011326_s003_t004
+       00011326_s003_t004
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+  307: 00011326_s003_t005
+       00011326_s003_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  308: 00011326_s003_t000
+       00011326_s003_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  309: 00011326_s003_t002
+       00011326_s003_t002
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0173  Miss: 1.9827  False Alarms: 1.0000  Total: 2.9827)
+
+  310: 00011326_s003_t001
+       00011326_s003_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  311: 00011326_s003_t003
+       00011326_s003_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  312: 00011385_s007_t001
+       00011385_s007_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  313: 00011385_s008_t000
+       00011385_s008_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7433  Miss: 0.2567  False Alarms: 3.0000  Total: 3.2567)
+
+  314: 00011385_s002_t001
+       00011385_s002_t001
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 4.0763  Miss: 32.9237  False Alarms: 2.0138  Total: 34.9374)
+
+  315: 00008658_s002_t001
+       00008658_s002_t001
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 4.0000  False Alarms: 3.0000  Total: 7.0000)
+
+  316: 00011575_s003_t000
+       00011575_s003_t000
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 6.5988  Miss: 0.4012  False Alarms: 1.1442  Total: 1.5454)
+
+  317: 00011575_s006_t001
+       00011575_s006_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.1364  Miss: 0.8636  False Alarms: 1.0000  Total: 1.8636)
+
+  318: 00011575_s006_t005
+       00011575_s006_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7438  Miss: 0.2562  False Alarms: 2.0000  Total: 2.2562)
+
+  319: 00011575_s006_t000
+       00011575_s006_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  320: 00011575_s006_t007
+       00011575_s006_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  321: 00011575_s006_t009
+       00011575_s006_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5191  Miss: 0.4809  False Alarms: 2.0000  Total: 2.4809)
+
+  322: 00011575_s006_t003
+       00011575_s006_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.9401  Miss: 0.0599  False Alarms: 1.0000  Total: 1.0599)
+
+  323: 00011575_s006_t006
+       00011575_s006_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7100  Miss: 0.2900  False Alarms: 1.0000  Total: 1.2900)
+
+  324: 00011575_s006_t002
+       00011575_s006_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  325: 00011575_s006_t004
+       00011575_s006_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  326: 00011575_s006_t008
+       00011575_s006_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0233  Miss: 0.9767  False Alarms: 1.0000  Total: 1.9767)
+
+  327: 00011575_s004_t002
+       00011575_s004_t002
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.9501  Miss: 0.0499  False Alarms: 0.0246  Total: 0.0746)
+
+  328: 00011575_s004_t004
+       00011575_s004_t004
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.9063  Miss: 0.0937  False Alarms: 0.0522  Total: 0.1459)
+
+  329: 00011575_s004_t013
+       00011575_s004_t013
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 6.0000  False Alarms: 1.0000  Total: 7.0000)
+
+  330: 00011575_s004_t007
+       00011575_s004_t007
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.8232  Miss: 0.1768  False Alarms: 0.0235  Total: 0.2003)
+
+  331: 00011575_s004_t009
+       00011575_s004_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  332: 00011575_s004_t010
+       00011575_s004_t010
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 6.0000  False Alarms: 1.0000  Total: 7.0000)
+
+  333: 00011575_s004_t001
+       00011575_s004_t001
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.8940  Miss: 0.1060  False Alarms: 0.0375  Total: 0.1435)
+
+  334: 00011575_s004_t016
+       00011575_s004_t016
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 8.0000  False Alarms: 1.0000  Total: 9.0000)
+
+  335: 00011575_s004_t006
+       00011575_s004_t006
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 2.7190  Miss: 4.2810  False Alarms: 1.0090  Total: 5.2900)
+
+  336: 00011575_s004_t000
+       00011575_s004_t000
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.9062  Miss: 0.0938  False Alarms: 0.0226  Total: 0.1164)
+
+  337: 00011575_s004_t014
+       00011575_s004_t014
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 12.0000  False Alarms: 1.0000  Total: 13.0000)
+
+  338: 00011575_s004_t015
+       00011575_s004_t015
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 8.0000  False Alarms: 1.0000  Total: 9.0000)
+
+  339: 00011575_s004_t012
+       00011575_s004_t012
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 6.0000  False Alarms: 1.0000  Total: 7.0000)
+
+  340: 00011575_s004_t005
+       00011575_s004_t005
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.9380  Miss: 0.0620  False Alarms: 0.0265  Total: 0.0885)
+
+  341: 00011575_s004_t011
+       00011575_s004_t011
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 4.0000  False Alarms: 1.0000  Total: 5.0000)
+
+  342: 00011575_s004_t003
+       00011575_s004_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  343: 00011575_s004_t008
+       00011575_s004_t008
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 6.0000  False Alarms: 1.0000  Total: 7.0000)
+
+  344: 00011575_s001_t001
+       00011575_s001_t001
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 3.8208  Miss: 1.1792  False Alarms: 2.0145  Total: 3.1936)
+
+  345: 00011575_s005_t013
+       00011575_s005_t013
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  346: 00011575_s005_t011
+       00011575_s005_t011
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+  347: 00011575_s005_t007
+       00011575_s005_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  348: 00011575_s005_t009
+       00011575_s005_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  349: 00011575_s005_t015
+       00011575_s005_t015
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  350: 00011575_s005_t016
+       00011575_s005_t016
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  351: 00011575_s005_t008
+       00011575_s005_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  352: 00011575_s005_t003
+       00011575_s005_t003
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+  353: 00011575_s005_t002
+       00011575_s005_t002
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 0.0613  Total: 2.0613)
+
+  354: 00011575_s005_t006
+       00011575_s005_t006
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 4.0000  False Alarms: 1.0000  Total: 5.0000)
+
+  355: 00011575_s005_t012
+       00011575_s005_t012
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  356: 00011575_s005_t005
+       00011575_s005_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  357: 00011575_s005_t014
+       00011575_s005_t014
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  358: 00011575_s005_t010
+       00011575_s005_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  359: 00011575_s005_t001
+       00011575_s005_t001
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 4.0000  False Alarms: 1.0000  Total: 5.0000)
+
+  360: 00011575_s005_t004
+       00011575_s005_t004
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 4.0000  False Alarms: 1.0000  Total: 5.0000)
+
+  361: 00006546_s031_t003
+       00006546_s031_t003
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 2.8769  Miss: 6.1231  False Alarms: 2.8822  Total: 9.0053)
+
+  362: 00006546_s031_t006
+       00006546_s031_t006
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 3.0000  Miss: 4.0000  False Alarms: 3.0000  Total: 7.0000)
+
+  363: 00006546_s031_t004
+       00006546_s031_t004
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 8.0000  False Alarms: 1.0000  Total: 9.0000)
+
+  364: 00006546_s031_t000
+       00006546_s031_t000
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 3.7095  Miss: 3.2905  False Alarms: 1.1153  Total: 4.4058)
+
+  365: 00006546_s031_t002
+       00006546_s031_t002
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 8.0000  False Alarms: 1.0000  Total: 9.0000)
+
+  366: 00006546_s031_t005
+       00006546_s031_t005
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.2171  Miss: 1.7829  False Alarms: 1.0000  Total: 2.7829)
+
+  367: 00006546_s031_t001
+       00006546_s031_t001
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 6.0000  False Alarms: 1.0000  Total: 7.0000)
+
+  368: 00006546_s029_t002
+       00006546_s029_t002
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0500  Miss: 9.9500  False Alarms: 1.0000  Total: 10.9500)
+
+  369: 00006546_s029_t004
+       00006546_s029_t004
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 4.0000  False Alarms: 1.0000  Total: 5.0000)
+
+  370: 00006546_s029_t003
+       00006546_s029_t003
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.2149  Miss: 13.7851  False Alarms: 1.0000  Total: 14.7851)
+
+  371: 00006546_s029_t006
+       00006546_s029_t006
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.1947  Miss: 1.8053  False Alarms: 1.0000  Total: 2.8053)
+
+  372: 00006546_s029_t007
+       00006546_s029_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  373: 00006546_s029_t000
+       00006546_s029_t000
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.2047  Miss: 3.7953  False Alarms: 1.0000  Total: 4.7953)
+
+  374: 00006546_s029_t005
+       00006546_s029_t005
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 6.0000  False Alarms: 1.0000  Total: 7.0000)
+
+  375: 00006546_s029_t001
+       00006546_s029_t001
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 8.0000  False Alarms: 1.0000  Total: 9.0000)
+
+  376: 00006546_s036_t002
+       00006546_s036_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.2200  Miss: 0.7800  False Alarms: 1.0000  Total: 1.7800)
+
+  377: 00006546_s036_t004
+       00006546_s036_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  378: 00006546_s036_t008
+       00006546_s036_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6667  Miss: 0.3333  False Alarms: 1.0000  Total: 1.3333)
+
+  379: 00006546_s036_t007
+       00006546_s036_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  380: 00006546_s036_t003
+       00006546_s036_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  381: 00006546_s036_t001
+       00006546_s036_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5674  Miss: 0.4326  False Alarms: 1.0000  Total: 1.4326)
+
+  382: 00006546_s036_t009
+       00006546_s036_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  383: 00006546_s036_t006
+       00006546_s036_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  384: 00006546_s036_t000
+       00006546_s036_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  385: 00006546_s036_t005
+       00006546_s036_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7188  Miss: 0.2812  False Alarms: 1.0000  Total: 1.2812)
+
+  386: 00006546_s038_t011
+       00006546_s038_t011
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 2.9871  Miss: 2.0129  False Alarms: 2.0281  Total: 4.0410)
+
+  387: 00006546_s038_t008
+       00006546_s038_t008
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.7751  Miss: 1.2249  False Alarms: 1.0000  Total: 2.2249)
+
+  388: 00006546_s038_t007
+       00006546_s038_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  389: 00006546_s038_t000
+       00006546_s038_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  390: 00006546_s038_t003
+       00006546_s038_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  391: 00006546_s038_t002
+       00006546_s038_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0466  Miss: 0.9534  False Alarms: 1.0000  Total: 1.9534)
+
+  392: 00006546_s038_t004
+       00006546_s038_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  393: 00006546_s038_t001
+       00006546_s038_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  394: 00006546_s038_t009
+       00006546_s038_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5267  Miss: 0.4733  False Alarms: 1.0000  Total: 1.4733)
+
+  395: 00006546_s038_t010
+       00006546_s038_t010
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.9999  Miss: 3.0001  False Alarms: 1.0000  Total: 4.0001)
+
+  396: 00006546_s038_t005
+       00006546_s038_t005
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.3318  Miss: 0.6682  False Alarms: 1.0288  Total: 1.6970)
+
+  397: 00006546_s038_t006
+       00006546_s038_t006
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.5810  Miss: 0.4190  False Alarms: 1.0000  Total: 1.4190)
+
+  398: 00006546_s032_t001
+       00006546_s032_t001
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 2.9401  Miss: 6.0599  False Alarms: 3.0000  Total: 9.0599)
+
+  399: 00006546_s032_t004
+       00006546_s032_t004
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 4.0000  False Alarms: 1.0000  Total: 5.0000)
+
+  400: 00006546_s032_t002
+       00006546_s032_t002
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 3.7423  Miss: 3.2577  False Alarms: 1.7928  Total: 5.0506)
+
+  401: 00006546_s032_t003
+       00006546_s032_t003
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 10.0000  False Alarms: 1.0000  Total: 11.0000)
+
+  402: 00006546_s032_t000
+       00006546_s032_t000
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 10.0000  False Alarms: 1.0000  Total: 11.0000)
+
+  403: 00006546_s037_t004
+       00006546_s037_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8569  Miss: 0.1431  False Alarms: 1.0000  Total: 1.1431)
+
+  404: 00006546_s037_t003
+       00006546_s037_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  405: 00006546_s037_t001
+       00006546_s037_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0033  Miss: 0.9967  False Alarms: 1.0000  Total: 1.9967)
+
+  406: 00006546_s037_t002
+       00006546_s037_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.2063  Miss: 0.7937  False Alarms: 1.0000  Total: 1.7937)
+
+  407: 00006546_s037_t000
+       00006546_s037_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  408: 00006546_s037_t005
+       00006546_s037_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  409: 00006546_s028_t000
+       00006546_s028_t000
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.9599  Miss: 17.0401  False Alarms: 1.0392  Total: 18.0793)
+
+  410: 00011276_s001_t000
+       00011276_s001_t000
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.9324  Miss: 1.0676  False Alarms: 0.0576  Total: 1.1252)
+
+  411: 00011276_s001_t001
+       00011276_s001_t001
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.6828  Miss: 1.3172  False Alarms: 1.0514  Total: 2.3686)
+
+  412: 00011276_s001_t002
+       00011276_s001_t002
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.7351  Miss: 0.2649  False Alarms: 1.0098  Total: 1.2747)
+
+  413: 00011276_s003_t001
+       00011276_s003_t001
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.2213  Miss: 0.7787  False Alarms: 0.3844  Total: 1.1631)
+
+  414: 00011276_s003_t000
+       00011276_s003_t000
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+  415: 00011276_s004_t002
+       00011276_s004_t002
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.4659  Miss: 0.5341  False Alarms: 0.3587  Total: 0.8928)
+
+  416: 00011276_s004_t005
+       00011276_s004_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  417: 00011276_s004_t001
+       00011276_s004_t001
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.6825  Miss: 0.3175  False Alarms: 0.1366  Total: 0.4541)
+
+  418: 00011276_s004_t003
+       00011276_s004_t003
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+  419: 00011276_s002_t000
+       00011276_s002_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8779  Miss: 0.1221  False Alarms: 1.0000  Total: 1.1221)
+
+  420: 00011276_s006_t001
+       00011276_s006_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  421: 00011276_s006_t003
+       00011276_s006_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  422: 00011276_s006_t002
+       00011276_s006_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  423: 00011276_s007_t004
+       00011276_s007_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0865  Miss: 0.9135  False Alarms: 1.0000  Total: 1.9135)
+
+  424: 00011276_s007_t001
+       00011276_s007_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  425: 00011276_s007_t002
+       00011276_s007_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5990  Miss: 0.4010  False Alarms: 1.0000  Total: 1.4010)
+
+  426: 00011276_s007_t000
+       00011276_s007_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  427: 00011276_s007_t003
+       00011276_s007_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  428: 00011276_s007_t005
+       00011276_s007_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6123  Miss: 0.3877  False Alarms: 2.0000  Total: 2.3877)
+
+  429: 00011276_s005_t001
+       00011276_s005_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  430: 00011276_s005_t000
+       00011276_s005_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  431: 00011276_s005_t002
+       00011276_s005_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  432: 00010930_s010_t001
+       00010930_s010_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  433: 00010930_s010_t003
+       00010930_s010_t003
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.7437  Miss: 1.2563  False Alarms: 2.5984  Total: 3.8547)
+
+  434: 00010930_s010_t005
+       00010930_s010_t005
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 0.7815  Miss: 2.2185  False Alarms: 3.0000  Total: 5.2185)
+
+  435: 00010930_s010_t004
+       00010930_s010_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5233  Miss: 0.4767  False Alarms: 1.0000  Total: 1.4767)
+
+  436: 00010930_s010_t007
+       00010930_s010_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4767  Miss: 0.5233  False Alarms: 1.0000  Total: 1.5233)
+
+  437: 00010930_s010_t002
+       00010930_s010_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  438: 00010930_s010_t000
+       00010930_s010_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  439: 00010930_s010_t009
+       00010930_s010_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4676  Miss: 0.5324  False Alarms: 1.0000  Total: 1.5324)
+
+  440: 00010930_s010_t008
+       00010930_s010_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  441: 00010930_s010_t006
+       00010930_s010_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  442: 00010930_s011_t004
+       00010930_s011_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  443: 00010930_s011_t003
+       00010930_s011_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3400  Miss: 0.6600  False Alarms: 1.0000  Total: 1.6600)
+
+  444: 00010930_s011_t006
+       00010930_s011_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5025  Miss: 0.4975  False Alarms: 1.0000  Total: 1.4975)
+
+  445: 00010930_s011_t008
+       00010930_s011_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6667  Miss: 0.3333  False Alarms: 1.0000  Total: 1.3333)
+
+  446: 00010930_s011_t009
+       00010930_s011_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  447: 00010930_s011_t001
+       00010930_s011_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.2479  Miss: 0.7521  False Alarms: 1.0000  Total: 1.7521)
+
+  448: 00010930_s011_t005
+       00010930_s011_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7367  Miss: 0.2633  False Alarms: 1.0000  Total: 1.2633)
+
+  449: 00010930_s011_t007
+       00010930_s011_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3894  Miss: 0.6106  False Alarms: 1.0000  Total: 1.6106)
+
+  450: 00010930_s011_t002
+       00010930_s011_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  451: 00010930_s011_t000
+       00010930_s011_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  452: 00010930_s008_t002
+       00010930_s008_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  453: 00010930_s008_t007
+       00010930_s008_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  454: 00010930_s008_t010
+       00010930_s008_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  455: 00010930_s008_t008
+       00010930_s008_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  456: 00010930_s008_t004
+       00010930_s008_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  457: 00010930_s008_t000
+       00010930_s008_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7967  Miss: 0.2033  False Alarms: 1.0000  Total: 1.2033)
+
+  458: 00010930_s008_t001
+       00010930_s008_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4526  Miss: 0.5474  False Alarms: 2.0000  Total: 2.5474)
+
+  459: 00010930_s008_t011
+       00010930_s008_t011
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  460: 00010930_s008_t006
+       00010930_s008_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  461: 00010930_s008_t005
+       00010930_s008_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  462: 00010930_s008_t009
+       00010930_s008_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  463: 00010930_s008_t003
+       00010930_s008_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  464: 00010930_s009_t009
+       00010930_s009_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  465: 00010930_s009_t003
+       00010930_s009_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  466: 00010930_s009_t001
+       00010930_s009_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3910  Miss: 0.6090  False Alarms: 1.0000  Total: 1.6090)
+
+  467: 00010930_s009_t000
+       00010930_s009_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  468: 00010930_s009_t002
+       00010930_s009_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  469: 00010930_s009_t005
+       00010930_s009_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  470: 00010930_s009_t008
+       00010930_s009_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  471: 00010930_s009_t010
+       00010930_s009_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  472: 00010930_s009_t006
+       00010930_s009_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  473: 00010930_s009_t004
+       00010930_s009_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  474: 00010930_s009_t007
+       00010930_s009_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  475: 00010930_s007_t007
+       00010930_s007_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  476: 00010930_s007_t006
+       00010930_s007_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  477: 00010930_s007_t003
+       00010930_s007_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  478: 00010930_s007_t008
+       00010930_s007_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  479: 00010930_s007_t001
+       00010930_s007_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  480: 00010930_s007_t004
+       00010930_s007_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  481: 00010930_s007_t005
+       00010930_s007_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  482: 00010930_s007_t000
+       00010930_s007_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  483: 00010930_s007_t009
+       00010930_s007_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  484: 00010930_s007_t002
+       00010930_s007_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  485: 00010958_s005_t005
+       00010958_s005_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  486: 00010958_s005_t009
+       00010958_s005_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3161  Miss: 0.6839  False Alarms: 1.0000  Total: 1.6839)
+
+  487: 00010958_s005_t008
+       00010958_s005_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  488: 00010958_s005_t002
+       00010958_s005_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  489: 00010958_s005_t001
+       00010958_s005_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8985  Miss: 0.1015  False Alarms: 1.0000  Total: 1.1015)
+
+  490: 00010958_s005_t007
+       00010958_s005_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8153  Miss: 0.1847  False Alarms: 1.0000  Total: 1.1847)
+
+  491: 00010958_s005_t003
+       00010958_s005_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  492: 00010958_s005_t006
+       00010958_s005_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  493: 00010958_s005_t004
+       00010958_s005_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  494: 00010958_s005_t000
+       00010958_s005_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5900  Miss: 0.4100  False Alarms: 1.0000  Total: 1.4100)
+
+  495: 00010958_s007_t004
+       00010958_s007_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  496: 00010958_s007_t002
+       00010958_s007_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  497: 00010958_s007_t001
+       00010958_s007_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4493  Miss: 0.5507  False Alarms: 1.0000  Total: 1.5507)
+
+  498: 00010958_s007_t000
+       00010958_s007_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0833  Miss: 0.9167  False Alarms: 1.0000  Total: 1.9167)
+
+  499: 00010958_s007_t003
+       00010958_s007_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.9334  Miss: 0.0666  False Alarms: 1.0000  Total: 1.0666)
+
+  500: 00011142_s001_t000
+       00011142_s001_t000
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 5.3336  Miss: 9.6664  False Alarms: 4.6954  Total: 14.3618)
+
+  501: 00011142_s001_t001
+       00011142_s001_t001
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 0.0640  Total: 2.0640)
+
+  502: 00011142_s001_t002
+       00011142_s001_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  503: 00011105_s002_t007
+       00011105_s002_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0116  Miss: 0.9884  False Alarms: 1.0000  Total: 1.9884)
+
+  504: 00011105_s002_t004
+       00011105_s002_t004
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.5109  Miss: 0.4891  False Alarms: 0.2431  Total: 0.7322)
+
+  505: 00011105_s002_t008
+       00011105_s002_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  506: 00011105_s002_t005
+       00011105_s002_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  507: 00011105_s002_t002
+       00011105_s002_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.9368  Miss: 0.0632  False Alarms: 1.0000  Total: 1.0632)
+
+  508: 00011105_s002_t001
+       00011105_s002_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  509: 00011105_s002_t003
+       00011105_s002_t003
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 2.0000  Total: 4.0000)
+
+  510: 00011105_s002_t006
+       00011105_s002_t006
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.5918  Miss: 0.4082  False Alarms: 0.0714  Total: 0.4796)
+
+  511: 00011105_s002_t009
+       00011105_s002_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.1265  Miss: 0.8735  False Alarms: 1.0000  Total: 1.8735)
+
+  512: 00011105_s003_t002
+       00011105_s003_t002
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.4072  Miss: 1.5928  False Alarms: 3.0000  Total: 4.5928)
+
+  513: 00011105_s003_t003
+       00011105_s003_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.1733  Miss: 0.8267  False Alarms: 1.0000  Total: 1.8267)
+
+  514: 00011105_s003_t011
+       00011105_s003_t011
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0319  Miss: 1.9681  False Alarms: 1.0000  Total: 2.9681)
+
+  515: 00011105_s003_t001
+       00011105_s003_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.1864  Miss: 0.8136  False Alarms: 2.0000  Total: 2.8136)
+
+  516: 00011105_s003_t004
+       00011105_s003_t004
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+  517: 00011105_s003_t018
+       00011105_s003_t018
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.4650  Miss: 0.5350  False Alarms: 2.9512  Total: 3.4862)
+
+  518: 00011105_s003_t000
+       00011105_s003_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  519: 00011105_s003_t017
+       00011105_s003_t017
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  520: 00011105_s003_t005
+       00011105_s003_t005
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.4086  Miss: 1.5914  False Alarms: 2.0000  Total: 3.5914)
+
+  521: 00011105_s003_t014
+       00011105_s003_t014
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0100  Miss: 0.9900  False Alarms: 1.0000  Total: 1.9900)
+
+  522: 00011105_s003_t009
+       00011105_s003_t009
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.8133  Miss: 0.1867  False Alarms: 0.0623  Total: 0.2489)
+
+  523: 00011105_s003_t015
+       00011105_s003_t015
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.5257  Miss: 1.4743  False Alarms: 1.0000  Total: 2.4743)
+
+  524: 00011105_s003_t013
+       00011105_s003_t013
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 0.9976  Miss: 2.0024  False Alarms: 2.0973  Total: 4.0997)
+
+  525: 00011105_s003_t006
+       00011105_s003_t006
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+  526: 00011105_s003_t008
+       00011105_s003_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5724  Miss: 0.4276  False Alarms: 1.0000  Total: 1.4276)
+
+  527: 00011105_s003_t007
+       00011105_s003_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0600  Miss: 0.9400  False Alarms: 1.0000  Total: 1.9400)
+
+  528: 00011105_s003_t010
+       00011105_s003_t010
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+  529: 00011105_s003_t012
+       00011105_s003_t012
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.0519  Miss: 0.9481  False Alarms: 3.0000  Total: 3.9481)
+
+  530: 00011105_s003_t016
+       00011105_s003_t016
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.7489  Miss: 0.2511  False Alarms: 1.4162  Total: 1.6673)
+
+  531: 00011105_s001_t000
+       00011105_s001_t000
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.1291  Miss: 0.8709  False Alarms: 3.0068  Total: 3.8777)
+
+  532: 00011105_s004_t002
+       00011105_s004_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.1000  Miss: 0.9000  False Alarms: 1.0000  Total: 1.9000)
+
+  533: 00011105_s004_t000
+       00011105_s004_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3667  Miss: 0.6333  False Alarms: 1.0000  Total: 1.6333)
+
+  534: 00011105_s004_t001
+       00011105_s004_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.1647  Miss: 0.8353  False Alarms: 2.0000  Total: 2.8353)
+
+  535: 00011105_s004_t008
+       00011105_s004_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  536: 00011105_s004_t009
+       00011105_s004_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4509  Miss: 0.5491  False Alarms: 1.0000  Total: 1.5491)
+
+  537: 00011105_s004_t003
+       00011105_s004_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4459  Miss: 0.5541  False Alarms: 2.0000  Total: 2.5541)
+
+  538: 00011105_s004_t007
+       00011105_s004_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.2463  Miss: 0.7537  False Alarms: 1.0000  Total: 1.7537)
+
+  539: 00011105_s004_t006
+       00011105_s004_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  540: 00011105_s004_t004
+       00011105_s004_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5767  Miss: 0.4233  False Alarms: 1.0000  Total: 1.4233)
+
+  541: 00011105_s004_t005
+       00011105_s004_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.2313  Miss: 0.7687  False Alarms: 1.0000  Total: 1.7687)
+
+  542: 00000314_s013_t001
+       00000314_s013_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0374  Miss: 0.9626  False Alarms: 1.0000  Total: 1.9626)
+
+  543: 00000314_s013_t002
+       00000314_s013_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  544: 00000314_s012_t001
+       00000314_s012_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  545: 00000314_s012_t002
+       00000314_s012_t002
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 0.0020  Total: 2.0020)
+
+  546: 00011604_s008_t007
+       00011604_s008_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  547: 00011604_s008_t008
+       00011604_s008_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  548: 00011604_s008_t009
+       00011604_s008_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8802  Miss: 0.1198  False Alarms: 1.0000  Total: 1.1198)
+
+  549: 00011604_s008_t002
+       00011604_s008_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6933  Miss: 0.3067  False Alarms: 1.0000  Total: 1.3067)
+
+  550: 00011604_s008_t006
+       00011604_s008_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.9278  Miss: 0.0722  False Alarms: 1.0000  Total: 1.0722)
+
+  551: 00011604_s008_t001
+       00011604_s008_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  552: 00011604_s008_t005
+       00011604_s008_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  553: 00011604_s008_t003
+       00011604_s008_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  554: 00011604_s008_t004
+       00011604_s008_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  555: 00011604_s008_t000
+       00011604_s008_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  556: 00011604_s007_t003
+       00011604_s007_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  557: 00011604_s007_t002
+       00011604_s007_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  558: 00011604_s007_t000
+       00011604_s007_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  559: 00011604_s007_t001
+       00011604_s007_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  560: 00011604_s014_t008
+       00011604_s014_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  561: 00011604_s014_t022
+       00011604_s014_t022
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  562: 00011604_s014_t013
+       00011604_s014_t013
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.9000  Miss: 0.1000  False Alarms: 1.0000  Total: 1.1000)
+
+  563: 00011604_s014_t012
+       00011604_s014_t012
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6696  Miss: 0.3304  False Alarms: 1.0000  Total: 1.3304)
+
+  564: 00011604_s014_t016
+       00011604_s014_t016
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8139  Miss: 0.1861  False Alarms: 1.0000  Total: 1.1861)
+
+  565: 00011604_s014_t006
+       00011604_s014_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  566: 00011604_s014_t020
+       00011604_s014_t020
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  567: 00011604_s014_t001
+       00011604_s014_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  568: 00011604_s014_t011
+       00011604_s014_t011
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7310  Miss: 0.2690  False Alarms: 1.0000  Total: 1.2690)
+
+  569: 00005208_s014_t000
+       00005208_s014_t000
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.8325  Miss: 0.1675  False Alarms: 0.0816  Total: 0.2491)
+
+  570: 00005208_s013_t001
+       00005208_s013_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8107  Miss: 0.1893  False Alarms: 1.0000  Total: 1.1893)
+
+  571: 00005208_s013_t007
+       00005208_s013_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  572: 00005208_s013_t002
+       00005208_s013_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  573: 00005208_s013_t000
+       00005208_s013_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7660  Miss: 0.2340  False Alarms: 2.0000  Total: 2.2340)
+
+  574: 00005208_s013_t004
+       00005208_s013_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  575: 00005208_s013_t006
+       00005208_s013_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.9222  Miss: 0.0778  False Alarms: 1.0000  Total: 1.0778)
+
+  576: 00005208_s013_t005
+       00005208_s013_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5028  Miss: 0.4972  False Alarms: 1.0000  Total: 1.4972)
+
+  577: 00005208_s013_t003
+       00005208_s013_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  578: 00005208_s015_t001
+       00005208_s015_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5679  Miss: 0.4321  False Alarms: 1.0000  Total: 1.4321)
+
+  579: 00005208_s015_t002
+       00005208_s015_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  580: 00005208_s015_t000
+       00005208_s015_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  581: 00005208_s011_t000
+       00005208_s011_t000
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.3630  Miss: 0.6370  False Alarms: 1.2628  Total: 1.8998)
+
+  582: 00000458_s014_t005
+       00000458_s014_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6967  Miss: 0.3033  False Alarms: 2.0000  Total: 2.3033)
+
+  583: 00000458_s014_t008
+       00000458_s014_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6423  Miss: 0.3577  False Alarms: 2.0000  Total: 2.3577)
+
+  584: 00000458_s014_t012
+       00000458_s014_t012
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.9648  Miss: 0.0352  False Alarms: 1.0000  Total: 1.0352)
+
+  585: 00000458_s014_t009
+       00000458_s014_t009
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.4233  Miss: 0.5767  False Alarms: 2.0027  Total: 2.5794)
+
+  586: 00000458_s014_t011
+       00000458_s014_t011
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0837  Miss: 0.9163  False Alarms: 1.0000  Total: 1.9163)
+
+  587: 00000458_s014_t003
+       00000458_s014_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  588: 00000458_s014_t002
+       00000458_s014_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  589: 00000458_s014_t007
+       00000458_s014_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  590: 00000458_s014_t000
+       00000458_s014_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0167  Miss: 0.9833  False Alarms: 1.0000  Total: 1.9833)
+
+  591: 00000458_s014_t001
+       00000458_s014_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3394  Miss: 0.6606  False Alarms: 2.0000  Total: 2.6606)
+
+  592: 00000458_s014_t013
+       00000458_s014_t013
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0140  Miss: 0.9860  False Alarms: 1.0000  Total: 1.9860)
+
+  593: 00000458_s014_t006
+       00000458_s014_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7820  Miss: 0.2180  False Alarms: 1.0000  Total: 1.2180)
+
+  594: 00000458_s018_t000
+       00000458_s018_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  595: 00000458_s018_t001
+       00000458_s018_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0116  Miss: 0.9884  False Alarms: 1.0000  Total: 1.9884)
+
+  596: 00000458_s018_t007
+       00000458_s018_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.2000  Miss: 0.8000  False Alarms: 1.0000  Total: 1.8000)
+
+  597: 00000458_s018_t003
+       00000458_s018_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  598: 00000458_s018_t005
+       00000458_s018_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6373  Miss: 0.3627  False Alarms: 2.0000  Total: 2.3627)
+
+  599: 00000458_s018_t010
+       00000458_s018_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  600: 00000458_s018_t002
+       00000458_s018_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0067  Miss: 0.9933  False Alarms: 1.0000  Total: 1.9933)
+
+  601: 00000458_s018_t008
+       00000458_s018_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  602: 00000458_s018_t004
+       00000458_s018_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  603: 00000458_s018_t011
+       00000458_s018_t011
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  604: 00000458_s018_t009
+       00000458_s018_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  605: 00000458_s016_t007
+       00000458_s016_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  606: 00000458_s016_t003
+       00000458_s016_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0200  Miss: 0.9800  False Alarms: 1.0000  Total: 1.9800)
+
+  607: 00000458_s016_t006
+       00000458_s016_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0022  Miss: 0.9978  False Alarms: 1.0000  Total: 1.9978)
+
+  608: 00000458_s016_t001
+       00000458_s016_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  609: 00000458_s016_t005
+       00000458_s016_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  610: 00000458_s016_t002
+       00000458_s016_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0033  Miss: 0.9967  False Alarms: 1.0000  Total: 1.9967)
+
+  611: 00000458_s016_t000
+       00000458_s016_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0233  Miss: 0.9767  False Alarms: 1.0000  Total: 1.9767)
+
+  612: 00000458_s017_t000
+       00000458_s017_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  613: 00000458_s017_t001
+       00000458_s017_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  614: 00000458_s017_t014
+       00000458_s017_t014
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  615: 00000458_s017_t017
+       00000458_s017_t017
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0200  Miss: 0.9800  False Alarms: 1.0000  Total: 1.9800)
+
+  616: 00000458_s017_t020
+       00000458_s017_t020
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  617: 00000458_s017_t005
+       00000458_s017_t005
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.9972  Miss: 1.0028  False Alarms: 1.0000  Total: 2.0028)
+
+  618: 00000458_s017_t013
+       00000458_s017_t013
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.1300  Miss: 0.8700  False Alarms: 1.0000  Total: 1.8700)
+
+  619: 00000458_s017_t021
+       00000458_s017_t021
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  620: 00000458_s017_t022
+       00000458_s017_t022
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  621: 00000458_s017_t023
+       00000458_s017_t023
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.1964  Miss: 0.8036  False Alarms: 2.0000  Total: 2.8036)
+
+  622: 00000458_s017_t007
+       00000458_s017_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7895  Miss: 0.2105  False Alarms: 1.0000  Total: 1.2105)
+
+  623: 00000458_s017_t008
+       00000458_s017_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5996  Miss: 0.4004  False Alarms: 3.0000  Total: 3.4004)
+
+  624: 00000458_s017_t016
+       00000458_s017_t016
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  625: 00011846_s004_t005
+       00011846_s004_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.9101  Miss: 0.0899  False Alarms: 1.0000  Total: 1.0899)
+
+  626: 00011846_s004_t001
+       00011846_s004_t001
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.9510  Miss: 0.0490  False Alarms: 0.2108  Total: 0.2598)
+
+  627: 00011846_s004_t000
+       00011846_s004_t000
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.9177  Miss: 1.0823  False Alarms: 1.0000  Total: 2.0823)
+
+  628: 00011846_s004_t004
+       00011846_s004_t004
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.9541  Miss: 1.0459  False Alarms: 1.0000  Total: 2.0459)
+
+  629: 00011846_s004_t003
+       00011846_s004_t003
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.6165  Miss: 0.3835  False Alarms: 1.4590  Total: 1.8425)
+
+  630: 00011846_s004_t002
+       00011846_s004_t002
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.8924  Miss: 0.1076  False Alarms: 0.3727  Total: 0.4804)
+
+  631: 00011846_s004_t006
+       00011846_s004_t006
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.1343  Miss: 1.8657  False Alarms: 1.0000  Total: 2.8657)
+
+  632: 00011846_s003_t007
+       00011846_s003_t007
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 3.6979  Miss: 1.3021  False Alarms: 1.0708  Total: 2.3729)
+
+  633: 00011846_s003_t004
+       00011846_s003_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8600  Miss: 0.1400  False Alarms: 1.0000  Total: 1.1400)
+
+  634: 00011846_s003_t008
+       00011846_s003_t008
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.5083  Miss: 1.4917  False Alarms: 1.0000  Total: 2.4917)
+
+  635: 00011846_s003_t009
+       00011846_s003_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8145  Miss: 0.1855  False Alarms: 1.0000  Total: 1.1855)
+
+  636: 00011846_s003_t010
+       00011846_s003_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  637: 00011846_s003_t005
+       00011846_s003_t005
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 3.8550  Miss: 3.1450  False Alarms: 2.0117  Total: 5.1567)
+
+  638: 00011846_s003_t002
+       00011846_s003_t002
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.8690  Miss: 1.1310  False Alarms: 1.0000  Total: 2.1310)
+
+  639: 00011846_s003_t003
+       00011846_s003_t003
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.9105  Miss: 1.0895  False Alarms: 2.0060  Total: 3.0955)
+
+  640: 00011846_s003_t001
+       00011846_s003_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5918  Miss: 0.4082  False Alarms: 1.0000  Total: 1.4082)
+
+  641: 00011846_s003_t006
+       00011846_s003_t006
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 2.9646  Miss: 2.0354  False Alarms: 1.0000  Total: 3.0354)
+
+  642: 00011846_s003_t011
+       00011846_s003_t011
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  643: 00011846_s002_t001
+       00011846_s002_t001
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 5.2458  Miss: 3.7542  False Alarms: 3.5106  Total: 7.2647)
+
+  644: 00011815_s007_t005
+       00011815_s007_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8623  Miss: 0.1377  False Alarms: 1.0000  Total: 1.1377)
+
+  645: 00011815_s007_t009
+       00011815_s007_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  646: 00011815_s007_t003
+       00011815_s007_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  647: 00011815_s007_t004
+       00011815_s007_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  648: 00011815_s007_t010
+       00011815_s007_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  649: 00011815_s007_t007
+       00011815_s007_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  650: 00011815_s007_t000
+       00011815_s007_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  651: 00011815_s007_t001
+       00011815_s007_t001
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.6799  Miss: 0.3201  False Alarms: 1.0270  Total: 1.3470)
+
+  652: 00011815_s007_t002
+       00011815_s007_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  653: 00011815_s007_t008
+       00011815_s007_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  654: 00010619_s005_t007
+       00010619_s005_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8008  Miss: 0.1992  False Alarms: 1.0000  Total: 1.1992)
+
+  655: 00010619_s005_t002
+       00010619_s005_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7770  Miss: 0.2230  False Alarms: 1.0000  Total: 1.2230)
+
+  656: 00010619_s005_t004
+       00010619_s005_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  657: 00010619_s005_t000
+       00010619_s005_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0333  Miss: 0.9667  False Alarms: 1.0000  Total: 1.9667)
+
+  658: 00010619_s005_t005
+       00010619_s005_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8253  Miss: 0.1747  False Alarms: 1.0000  Total: 1.1747)
+
+  659: 00010619_s005_t006
+       00010619_s005_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5557  Miss: 0.4443  False Alarms: 1.0000  Total: 1.4443)
+
+  660: 00010619_s005_t001
+       00010619_s005_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0116  Miss: 0.9884  False Alarms: 1.0000  Total: 1.9884)
+
+  661: 00010619_s005_t003
+       00010619_s005_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  662: 00004239_s010_t001
+       00004239_s010_t001
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 6.0000  False Alarms: 1.0000  Total: 7.0000)
+
+  663: 00004239_s010_t006
+       00004239_s010_t006
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 6.0000  False Alarms: 1.0000  Total: 7.0000)
+
+  664: 00004239_s010_t002
+       00004239_s010_t002
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 8.0000  False Alarms: 1.0000  Total: 9.0000)
+
+  665: 00004239_s010_t000
+       00004239_s010_t000
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+  666: 00004239_s010_t007
+       00004239_s010_t007
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+  667: 00004239_s010_t005
+       00004239_s010_t005
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 14.0000  False Alarms: 1.0000  Total: 15.0000)
+
+  668: 00004239_s010_t003
+       00004239_s010_t003
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 10.0000  False Alarms: 1.0000  Total: 11.0000)
+
+  669: 00004239_s010_t004
+       00004239_s010_t004
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 6.0000  False Alarms: 1.0000  Total: 7.0000)
+
+  670: 00004239_s009_t002
+       00004239_s009_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  671: 00004239_s009_t001
+       00004239_s009_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  672: 00004239_s009_t003
+       00004239_s009_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  673: 00004239_s009_t004
+       00004239_s009_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  674: 00004239_s009_t000
+       00004239_s009_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  675: 00004239_s011_t003
+       00004239_s011_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  676: 00004239_s011_t002
+       00004239_s011_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  677: 00004239_s011_t000
+       00004239_s011_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  678: 00004239_s011_t001
+       00004239_s011_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  679: 00004239_s011_t004
+       00004239_s011_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  680: 00004239_s011_t005
+       00004239_s011_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  681: 00012534_s004_t002
+       00012534_s004_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0182  Miss: 0.9818  False Alarms: 1.0000  Total: 1.9818)
+
+  682: 00012534_s004_t004
+       00012534_s004_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  683: 00012534_s004_t006
+       00012534_s004_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0333  Miss: 0.9667  False Alarms: 1.0000  Total: 1.9667)
+
+  684: 00012534_s004_t008
+       00012534_s004_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3494  Miss: 0.6506  False Alarms: 2.0000  Total: 2.6506)
+
+  685: 00012534_s004_t005
+       00012534_s004_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4715  Miss: 0.5285  False Alarms: 2.0000  Total: 2.5285)
+
+  686: 00012534_s004_t000
+       00012534_s004_t000
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.9369  Miss: 0.0631  False Alarms: 0.0682  Total: 0.1313)
+
+  687: 00012534_s004_t007
+       00012534_s004_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3767  Miss: 0.6233  False Alarms: 2.0000  Total: 2.6233)
+
+  688: 00012534_s004_t003
+       00012534_s004_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  689: 00012534_s004_t001
+       00012534_s004_t001
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 2.7782  Miss: 2.2218  False Alarms: 2.3405  Total: 4.5623)
+
+  690: 00012534_s003_t000
+       00012534_s003_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  691: 00012534_s005_t007
+       00012534_s005_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7271  Miss: 0.2729  False Alarms: 1.0000  Total: 1.2729)
+
+  692: 00012534_s005_t006
+       00012534_s005_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3844  Miss: 0.6156  False Alarms: 1.0000  Total: 1.6156)
+
+  693: 00012534_s005_t008
+       00012534_s005_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  694: 00012534_s005_t002
+       00012534_s005_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  695: 00012534_s005_t001
+       00012534_s005_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  696: 00012534_s005_t000
+       00012534_s005_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  697: 00012534_s005_t003
+       00012534_s005_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4676  Miss: 0.5324  False Alarms: 2.0000  Total: 2.5324)
+
+  698: 00012534_s005_t004
+       00012534_s005_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7467  Miss: 0.2533  False Alarms: 1.0000  Total: 1.2533)
+
+  699: 00012534_s005_t009
+       00012534_s005_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  700: 00012534_s005_t005
+       00012534_s005_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0500  Miss: 0.9500  False Alarms: 1.0000  Total: 1.9500)
+
+  701: 00012534_s001_t000
+       00012534_s001_t000
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 16.3116  Miss: 2.6884  False Alarms: 1.5614  Total: 4.2498)
+
+  702: 00012427_s003_t002
+       00012427_s003_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  703: 00012427_s003_t004
+       00012427_s003_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  704: 00012427_s003_t008
+       00012427_s003_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  705: 00012427_s003_t005
+       00012427_s003_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  706: 00012427_s003_t010
+       00012427_s003_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4093  Miss: 0.5907  False Alarms: 3.0000  Total: 3.5907)
+
+  707: 00012427_s003_t001
+       00012427_s003_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  708: 00012427_s003_t000
+       00012427_s003_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  709: 00012427_s003_t009
+       00012427_s003_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  710: 00012427_s003_t003
+       00012427_s003_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  711: 00012427_s003_t007
+       00012427_s003_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  712: 00012427_s003_t006
+       00012427_s003_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  713: 00012427_s001_t000
+       00012427_s001_t000
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 2.8159  Miss: 4.1841  False Alarms: 1.7338  Total: 5.9179)
+
+  714: 00005028_s007_t009
+       00005028_s007_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7600  Miss: 0.2400  False Alarms: 2.0000  Total: 2.2400)
+
+  715: 00005028_s007_t012
+       00005028_s007_t012
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3533  Miss: 0.6467  False Alarms: 2.0000  Total: 2.6467)
+
+  716: 00005028_s007_t006
+       00005028_s007_t006
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+  717: 00005028_s007_t000
+       00005028_s007_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  718: 00005028_s007_t005
+       00005028_s007_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.2500  Miss: 0.7500  False Alarms: 3.0000  Total: 3.7500)
+
+  719: 00005028_s007_t004
+       00005028_s007_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6400  Miss: 0.3600  False Alarms: 1.0000  Total: 1.3600)
+
+  720: 00005028_s007_t010
+       00005028_s007_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6073  Miss: 0.3927  False Alarms: 1.0000  Total: 1.3927)
+
+  721: 00005028_s007_t008
+       00005028_s007_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  722: 00005028_s007_t002
+       00005028_s007_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6872  Miss: 0.3128  False Alarms: 1.0000  Total: 1.3128)
+
+  723: 00005028_s007_t011
+       00005028_s007_t011
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  724: 00005028_s007_t007
+       00005028_s007_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  725: 00005028_s006_t003
+       00005028_s006_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8486  Miss: 0.1514  False Alarms: 1.0000  Total: 1.1514)
+
+  726: 00005028_s006_t011
+       00005028_s006_t011
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  727: 00005028_s006_t006
+       00005028_s006_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3364  Miss: 0.6636  False Alarms: 1.0000  Total: 1.6636)
+
+  728: 00005028_s006_t009
+       00005028_s006_t009
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.0517  Miss: 0.9483  False Alarms: 1.0081  Total: 1.9563)
+
+  729: 00005028_s006_t007
+       00005028_s006_t007
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.0522  Miss: 0.9478  False Alarms: 1.0372  Total: 1.9850)
+
+  730: 00005028_s006_t012
+       00005028_s006_t012
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  731: 00005028_s006_t014
+       00005028_s006_t014
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0100  Miss: 0.9900  False Alarms: 1.0000  Total: 1.9900)
+
+  732: 00005028_s006_t000
+       00005028_s006_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.1533  Miss: 0.8467  False Alarms: 1.0000  Total: 1.8467)
+
+  733: 00005028_s006_t013
+       00005028_s006_t013
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.1847  Miss: 0.8153  False Alarms: 2.0000  Total: 2.8153)
+
+  734: 00005028_s006_t008
+       00005028_s006_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.9052  Miss: 0.0948  False Alarms: 1.0000  Total: 1.0948)
+
+  735: 00005028_s006_t001
+       00005028_s006_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  736: 00005028_s006_t002
+       00005028_s006_t002
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.2652  Miss: 0.7348  False Alarms: 2.0000  Total: 2.7348)
+
+  737: 00005028_s006_t015
+       00005028_s006_t015
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3694  Miss: 0.6306  False Alarms: 1.0000  Total: 1.6306)
+
+  738: 00005028_s006_t004
+       00005028_s006_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0067  Miss: 0.9933  False Alarms: 1.0000  Total: 1.9933)
+
+  739: 00005028_s006_t005
+       00005028_s006_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  740: 00005028_s009_t002
+       00005028_s009_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  741: 00005028_s009_t005
+       00005028_s009_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6406  Miss: 0.3594  False Alarms: 1.0000  Total: 1.3594)
+
+  742: 00005028_s009_t004
+       00005028_s009_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4060  Miss: 0.5940  False Alarms: 3.0000  Total: 3.5940)
+
+  743: 00005028_s009_t000
+       00005028_s009_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.1500  Miss: 0.8500  False Alarms: 1.0000  Total: 1.8500)
+
+  744: 00005028_s009_t003
+       00005028_s009_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  745: 00005028_s009_t001
+       00005028_s009_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  746: 00005028_s008_t005
+       00005028_s008_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  747: 00005028_s008_t002
+       00005028_s008_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  748: 00005028_s008_t000
+       00005028_s008_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.2233  Miss: 0.7767  False Alarms: 1.0000  Total: 1.7767)
+
+  749: 00005028_s008_t007
+       00005028_s008_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7733  Miss: 0.2267  False Alarms: 1.0000  Total: 1.2267)
+
+  750: 00005028_s008_t001
+       00005028_s008_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  751: 00005028_s008_t011
+       00005028_s008_t011
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  752: 00005028_s008_t004
+       00005028_s008_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.2711  Miss: 0.7289  False Alarms: 1.0000  Total: 1.7289)
+
+  753: 00005028_s008_t003
+       00005028_s008_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0017  Miss: 0.9983  False Alarms: 1.0000  Total: 1.9983)
+
+  754: 00005028_s008_t013
+       00005028_s008_t013
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  755: 00005028_s008_t012
+       00005028_s008_t012
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0167  Miss: 0.9833  False Alarms: 1.0000  Total: 1.9833)
+
+  756: 00005028_s008_t006
+       00005028_s008_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6206  Miss: 0.3794  False Alarms: 1.0000  Total: 1.3794)
+
+  757: 00005028_s004_t002
+       00005028_s004_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  758: 00005028_s004_t000
+       00005028_s004_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  759: 00005028_s004_t001
+       00005028_s004_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  760: 00004944_s009_t000
+       00004944_s009_t000
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.6808  Miss: 5.3192  False Alarms: 1.0145  Total: 6.3337)
+
+  761: 00004944_s006_t000
+       00004944_s006_t000
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 2.6423  Miss: 4.3577  False Alarms: 6.0000  Total: 10.3577)
+
+  762: 00004944_s006_t001
+       00004944_s006_t001
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.8561  Miss: 1.1439  False Alarms: 1.0000  Total: 2.1439)
+
+  763: 00003437_s009_t003
+       00003437_s009_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6408  Miss: 0.3592  False Alarms: 1.0000  Total: 1.3592)
+
+  764: 00003437_s009_t007
+       00003437_s009_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.9691  Miss: 0.0309  False Alarms: 1.0000  Total: 1.0309)
+
+  765: 00003437_s009_t000
+       00003437_s009_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0233  Miss: 0.9767  False Alarms: 1.0000  Total: 1.9767)
+
+  766: 00003437_s009_t005
+       00003437_s009_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  767: 00003437_s009_t012
+       00003437_s009_t012
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.1581  Miss: 0.8419  False Alarms: 2.0000  Total: 2.8419)
+
+  768: 00003437_s009_t010
+       00003437_s009_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.1200  Miss: 0.8800  False Alarms: 1.0000  Total: 1.8800)
+
+  769: 00003437_s009_t004
+       00003437_s009_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  770: 00003437_s009_t009
+       00003437_s009_t009
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 5.3619  Miss: 95.6381  False Alarms: 8.0000  Total: 103.6381)
+
+  771: 00003437_s009_t006
+       00003437_s009_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  772: 00003437_s009_t011
+       00003437_s009_t011
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  773: 00012742_s001_t001
+       00012742_s001_t001
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0483  Miss: 7.9517  False Alarms: 1.0000  Total: 8.9517)
+
+  774: 00012742_s003_t000
+       00012742_s003_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  775: 00012742_s003_t002
+       00012742_s003_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  776: 00012742_s003_t001
+       00012742_s003_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0183  Miss: 0.9817  False Alarms: 1.0000  Total: 1.9817)
+
+  777: 00012742_s002_t004
+       00012742_s002_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  778: 00012742_s002_t008
+       00012742_s002_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0233  Miss: 0.9767  False Alarms: 1.0000  Total: 1.9767)
+
+  779: 00012742_s002_t003
+       00012742_s002_t003
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 6.0000  False Alarms: 1.0000  Total: 7.0000)
+
+  780: 00012742_s002_t005
+       00012742_s002_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4567  Miss: 0.5433  False Alarms: 2.0000  Total: 2.5433)
+
+  781: 00012742_s002_t001
+       00012742_s002_t001
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 6.0000  False Alarms: 1.0000  Total: 7.0000)
+
+  782: 00012742_s002_t007
+       00012742_s002_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0266  Miss: 0.9734  False Alarms: 1.0000  Total: 1.9734)
+
+  783: 00012742_s002_t002
+       00012742_s002_t002
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 12.0000  False Alarms: 1.0000  Total: 13.0000)
+
+  784: 00012742_s002_t009
+       00012742_s002_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.9401  Miss: 0.0599  False Alarms: 2.0000  Total: 2.0599)
+
+  785: 00012742_s002_t006
+       00012742_s002_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6456  Miss: 0.3544  False Alarms: 1.0000  Total: 1.3544)
+
+  786: 00012730_s007_t002
+       00012730_s007_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6789  Miss: 0.3211  False Alarms: 3.0000  Total: 3.3211)
+
+  787: 00012730_s007_t007
+       00012730_s007_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8918  Miss: 0.1082  False Alarms: 1.0000  Total: 1.1082)
+
+  788: 00012730_s007_t003
+       00012730_s007_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  789: 00012730_s007_t005
+       00012730_s007_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5574  Miss: 0.4426  False Alarms: 2.0000  Total: 2.4426)
+
+  790: 00012730_s007_t004
+       00012730_s007_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7604  Miss: 0.2396  False Alarms: 2.0000  Total: 2.2396)
+
+  791: 00012730_s007_t006
+       00012730_s007_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6751  Miss: 0.3249  False Alarms: 1.0000  Total: 1.3249)
+
+  792: 00012730_s007_t001
+       00012730_s007_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6017  Miss: 0.3983  False Alarms: 1.0000  Total: 1.3983)
+
+  793: 00012730_s004_t005
+       00012730_s004_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4825  Miss: 0.5175  False Alarms: 2.0000  Total: 2.5175)
+
+  794: 00012730_s004_t000
+       00012730_s004_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  795: 00012730_s004_t003
+       00012730_s004_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  796: 00012730_s004_t002
+       00012730_s004_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  797: 00012730_s004_t001
+       00012730_s004_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  798: 00012730_s004_t004
+       00012730_s004_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8103  Miss: 0.1897  False Alarms: 2.0000  Total: 2.1897)
+
+  799: 00012730_s003_t000
+       00012730_s003_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  800: 00012730_s003_t005
+       00012730_s003_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  801: 00012730_s003_t004
+       00012730_s003_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  802: 00012730_s003_t007
+       00012730_s003_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  803: 00012730_s003_t003
+       00012730_s003_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  804: 00012730_s003_t006
+       00012730_s003_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  805: 00012730_s003_t002
+       00012730_s003_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  806: 00012730_s002_t000
+       00012730_s002_t000
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 0.0007  Total: 2.0007)
+
+  807: 00010850_s003_t009
+       00010850_s003_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  808: 00010850_s003_t007
+       00010850_s003_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  809: 00010850_s003_t003
+       00010850_s003_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  810: 00010850_s003_t004
+       00010850_s003_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  811: 00010850_s003_t002
+       00010850_s003_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  812: 00010850_s003_t006
+       00010850_s003_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  813: 00010850_s003_t008
+       00010850_s003_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  814: 00010850_s003_t001
+       00010850_s003_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  815: 00010850_s003_t000
+       00010850_s003_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  816: 00010850_s003_t005
+       00010850_s003_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  817: 00010850_s003_t010
+       00010850_s003_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  818: 00002849_s007_t001
+       00002849_s007_t001
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 5.0000  Total: 7.0000)
+
+  819: 00005623_s003_t001
+       00005623_s003_t001
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 3.2601  Total: 5.2601)
+
+  820: 00005623_s003_t000
+       00005623_s003_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3012  Miss: 0.6988  False Alarms: 1.0000  Total: 1.6988)
+
+  821: 00005623_s006_t002
+       00005623_s006_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  822: 00005623_s006_t005
+       00005623_s006_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  823: 00005623_s006_t000
+       00005623_s006_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  824: 00005623_s006_t007
+       00005623_s006_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  825: 00005623_s006_t001
+       00005623_s006_t001
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.9478  Miss: 0.0522  False Alarms: 0.0643  Total: 0.1165)
+
+  826: 00005623_s006_t008
+       00005623_s006_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  827: 00005623_s006_t003
+       00005623_s006_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  828: 00005623_s006_t004
+       00005623_s006_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  829: 00005623_s006_t006
+       00005623_s006_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  830: 00005649_s006_t000
+       00005649_s006_t000
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+  831: 00005649_s005_t003
+       00005649_s005_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  832: 00005649_s005_t002
+       00005649_s005_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  833: 00004944_s012_t007
+       00004944_s012_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3200  Miss: 0.6800  False Alarms: 1.0000  Total: 1.6800)
+
+  834: 00004944_s012_t010
+       00004944_s012_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  835: 00004944_s012_t003
+       00004944_s012_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6122  Miss: 0.3878  False Alarms: 1.0000  Total: 1.3878)
+
+  836: 00004944_s012_t011
+       00004944_s012_t011
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  837: 00004944_s012_t000
+       00004944_s012_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.1767  Miss: 0.8233  False Alarms: 1.0000  Total: 1.8233)
+
+  838: 00004944_s012_t005
+       00004944_s012_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7733  Miss: 0.2267  False Alarms: 1.0000  Total: 1.2267)
+
+  839: 00004944_s012_t002
+       00004944_s012_t002
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0365  Miss: 1.9635  False Alarms: 1.0000  Total: 2.9635)
+
+  840: 00004944_s012_t009
+       00004944_s012_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4276  Miss: 0.5724  False Alarms: 2.0000  Total: 2.5724)
+
+  841: 00004944_s012_t008
+       00004944_s012_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8567  Miss: 0.1433  False Alarms: 2.0000  Total: 2.1433)
+
+  842: 00004944_s013_t008
+       00004944_s013_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  843: 00004944_s013_t000
+       00004944_s013_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7467  Miss: 0.2533  False Alarms: 1.0000  Total: 1.2533)
+
+  844: 00004944_s013_t007
+       00004944_s013_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6889  Miss: 0.3111  False Alarms: 1.0000  Total: 1.3111)
+
+  845: 00004944_s013_t003
+       00004944_s013_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0915  Miss: 0.9085  False Alarms: 1.0000  Total: 1.9085)
+
+  846: 00004944_s013_t004
+       00004944_s013_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  847: 00004944_s013_t001
+       00004944_s013_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0466  Miss: 0.9534  False Alarms: 1.0000  Total: 1.9534)
+
+  848: 00004944_s013_t002
+       00004944_s013_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  849: 00004944_s013_t006
+       00004944_s013_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7100  Miss: 0.2900  False Alarms: 1.0000  Total: 1.2900)
+
+  850: 00004944_s013_t005
+       00004944_s013_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.2879  Miss: 0.7121  False Alarms: 1.0000  Total: 1.7121)
+
+  851: 00004944_s013_t009
+       00004944_s013_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0017  Miss: 0.9983  False Alarms: 1.0000  Total: 1.9983)
+
+  852: 00004944_s011_t003
+       00004944_s011_t003
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 2.0000  Total: 4.0000)
+
+  853: 00004944_s011_t001
+       00004944_s011_t001
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 9.0617  Miss: 3.9383  False Alarms: 4.2844  Total: 8.2227)
+
+  854: 00004944_s011_t000
+       00004944_s011_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  855: 00004944_s011_t004
+       00004944_s011_t004
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 2.1783  Miss: 2.8217  False Alarms: 2.0000  Total: 4.8217)
+
+  856: 00004944_s011_t005
+       00004944_s011_t005
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0232  Miss: 1.9768  False Alarms: 1.0000  Total: 2.9768)
+
+  857: 00004944_s011_t002
+       00004944_s011_t002
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 3.7467  Miss: 1.2533  False Alarms: 1.0244  Total: 2.2777)
+
+  858: 00004944_s011_t006
+       00004944_s011_t006
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.5655  Miss: 0.4345  False Alarms: 0.3103  Total: 0.7448)
+
+  859: 00012433_s005_t003
+       00012433_s005_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  860: 00012433_s005_t007
+       00012433_s005_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  861: 00012433_s005_t008
+       00012433_s005_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  862: 00012433_s005_t004
+       00012433_s005_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  863: 00012433_s005_t009
+       00012433_s005_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  864: 00012433_s005_t002
+       00012433_s005_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3673  Miss: 0.6327  False Alarms: 1.0000  Total: 1.6327)
+
+  865: 00012433_s005_t005
+       00012433_s005_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  866: 00012433_s005_t006
+       00012433_s005_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  867: 00012433_s005_t001
+       00012433_s005_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  868: 00012433_s005_t000
+       00012433_s005_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  869: 00012433_s007_t000
+       00012433_s007_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  870: 00012433_s007_t004
+       00012433_s007_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  871: 00012433_s007_t002
+       00012433_s007_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8700  Miss: 0.1300  False Alarms: 1.0000  Total: 1.1300)
+
+  872: 00012433_s007_t003
+       00012433_s007_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4975  Miss: 0.5025  False Alarms: 1.0000  Total: 1.5025)
+
+  873: 00012433_s007_t008
+       00012433_s007_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  874: 00012433_s007_t007
+       00012433_s007_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0533  Miss: 0.9467  False Alarms: 1.0000  Total: 1.9467)
+
+  875: 00012433_s007_t001
+       00012433_s007_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  876: 00012433_s007_t005
+       00012433_s007_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.1155  Miss: 0.8845  False Alarms: 1.0000  Total: 1.8845)
+
+  877: 00012433_s007_t006
+       00012433_s007_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0033  Miss: 0.9967  False Alarms: 1.0000  Total: 1.9967)
+
+  878: 00012433_s008_t003
+       00012433_s008_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  879: 00012433_s008_t000
+       00012433_s008_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  880: 00012433_s008_t009
+       00012433_s008_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  881: 00012433_s008_t004
+       00012433_s008_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  882: 00012433_s008_t007
+       00012433_s008_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  883: 00012433_s008_t002
+       00012433_s008_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  884: 00012433_s008_t001
+       00012433_s008_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  885: 00012433_s008_t008
+       00012433_s008_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  886: 00012433_s008_t006
+       00012433_s008_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  887: 00012433_s008_t005
+       00012433_s008_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  888: 00012433_s008_t010
+       00012433_s008_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  889: 00012433_s003_t004
+       00012433_s003_t004
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.9067  Miss: 5.0933  False Alarms: 2.0000  Total: 7.0933)
+
+  890: 00012433_s003_t003
+       00012433_s003_t003
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 10.0000  False Alarms: 1.0000  Total: 11.0000)
+
+  891: 00012433_s003_t000
+       00012433_s003_t000
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.9330  Miss: 5.0670  False Alarms: 1.2072  Total: 6.2742)
+
+  892: 00012433_s003_t002
+       00012433_s003_t002
+  Ref: bckg seiz bckg seiz bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 10.0000  False Alarms: 1.0000  Total: 11.0000)
+
+  893: 00012433_s004_t002
+       00012433_s004_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4502  Miss: 0.5498  False Alarms: 2.0000  Total: 2.5498)
+
+  894: 00012433_s004_t003
+       00012433_s004_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  895: 00012433_s004_t006
+       00012433_s004_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5990  Miss: 0.4010  False Alarms: 2.0000  Total: 2.4010)
+
+  896: 00012433_s004_t000
+       00012433_s004_t000
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.9748  Miss: 3.0252  False Alarms: 1.3981  Total: 4.4233)
+
+  897: 00012433_s004_t010
+       00012433_s004_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  898: 00012433_s004_t005
+       00012433_s004_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  899: 00012433_s004_t001
+       00012433_s004_t001
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 6.0000  False Alarms: 1.0000  Total: 7.0000)
+
+  900: 00012433_s004_t013
+       00012433_s004_t013
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7720  Miss: 0.2280  False Alarms: 1.0000  Total: 1.2280)
+
+  901: 00012433_s004_t014
+       00012433_s004_t014
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0267  Miss: 0.9733  False Alarms: 1.0000  Total: 1.9733)
+
+  902: 00011975_s004_t002
+       00011975_s004_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  903: 00011975_s004_t006
+       00011975_s004_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.9100  Miss: 0.0900  False Alarms: 1.0000  Total: 1.0900)
+
+  904: 00011975_s004_t005
+       00011975_s004_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  905: 00011975_s004_t004
+       00011975_s004_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0033  Miss: 0.9967  False Alarms: 1.0000  Total: 1.9967)
+
+  906: 00011975_s004_t003
+       00011975_s004_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  907: 00011975_s004_t007
+       00011975_s004_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6306  Miss: 0.3694  False Alarms: 1.0000  Total: 1.3694)
+
+  908: 00011975_s004_t000
+       00011975_s004_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  909: 00011975_s004_t001
+       00011975_s004_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8319  Miss: 0.1681  False Alarms: 1.0000  Total: 1.1681)
+
+  910: 00011975_s003_t017
+       00011975_s003_t017
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.9966  Miss: 3.0034  False Alarms: 1.4159  Total: 4.4193)
+
+  911: 00011975_s003_t004
+       00011975_s003_t004
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.3584  Miss: 1.6416  False Alarms: 2.0333  Total: 3.6749)
+
+  912: 00011975_s003_t025
+       00011975_s003_t025
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 2.5928  Miss: 2.4072  False Alarms: 2.1621  Total: 4.5693)
+
+  913: 00011975_s003_t021
+       00011975_s003_t021
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 2.1983  Total: 4.1983)
+
+  914: 00011975_s003_t014
+       00011975_s003_t014
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.5270  Miss: 1.4730  False Alarms: 1.0000  Total: 2.4730)
+
+  915: 00011975_s003_t010
+       00011975_s003_t010
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0314  Miss: 3.9686  False Alarms: 1.0000  Total: 4.9686)
+
+  916: 00011975_s003_t009
+       00011975_s003_t009
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.7905  Miss: 1.2095  False Alarms: 3.0000  Total: 4.2095)
+
+  917: 00011975_s003_t006
+       00011975_s003_t006
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.5999  Miss: 1.4001  False Alarms: 1.0000  Total: 2.4001)
+
+  918: 00011975_s003_t001
+       00011975_s003_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0863  Miss: 0.9137  False Alarms: 1.0000  Total: 1.9137)
+
+  919: 00011975_s003_t026
+       00011975_s003_t026
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.7299  Miss: 0.2701  False Alarms: 0.1967  Total: 0.4668)
+
+  920: 00011975_s003_t019
+       00011975_s003_t019
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 2.4709  Total: 4.4709)
+
+  921: 00011975_s003_t022
+       00011975_s003_t022
+  Ref: bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 3.6995  Miss: 1.3005  False Alarms: 1.6277  Total: 2.9282)
+
+  922: 00011975_s003_t011
+       00011975_s003_t011
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.6836  Miss: 1.3164  False Alarms: 2.7542  Total: 4.0706)
+
+  923: 00011975_s003_t002
+       00011975_s003_t002
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.2429  Miss: 1.7571  False Alarms: 3.0072  Total: 4.7644)
+
+  924: 00011975_s003_t005
+       00011975_s003_t005
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.9305  Miss: 1.0695  False Alarms: 1.0000  Total: 2.0695)
+
+  925: 00011975_s003_t023
+       00011975_s003_t023
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.2925  Miss: 0.7075  False Alarms: 1.0867  Total: 1.7942)
+
+  926: 00011975_s003_t016
+       00011975_s003_t016
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0386  Miss: 0.9614  False Alarms: 1.0000  Total: 1.9614)
+
+  927: 00011975_s003_t013
+       00011975_s003_t013
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.6268  Miss: 1.3732  False Alarms: 1.0000  Total: 2.3732)
+
+  928: 00011975_s003_t024
+       00011975_s003_t024
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.9100  Miss: 0.0900  False Alarms: 1.0000  Total: 1.0900)
+
+  929: 00011385_s010_t000
+       00011385_s010_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7433  Miss: 0.2567  False Alarms: 1.0000  Total: 1.2567)
+
+  930: 00011385_s010_t007
+       00011385_s010_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  931: 00011385_s010_t004
+       00011385_s010_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  932: 00011385_s010_t003
+       00011385_s010_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8386  Miss: 0.1614  False Alarms: 1.0000  Total: 1.1614)
+
+  933: 00011385_s010_t002
+       00011385_s010_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0500  Miss: 0.9500  False Alarms: 1.0000  Total: 1.9500)
+
+  934: 00011385_s010_t006
+       00011385_s010_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.2200  Miss: 0.7800  False Alarms: 1.0000  Total: 1.7800)
+
+  935: 00011385_s010_t005
+       00011385_s010_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3877  Miss: 0.6123  False Alarms: 1.0000  Total: 1.6123)
+
+  936: 00011385_s010_t001
+       00011385_s010_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  937: 00011385_s003_t004
+       00011385_s003_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  938: 00011385_s003_t003
+       00011385_s003_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  939: 00011385_s003_t002
+       00011385_s003_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  940: 00011385_s003_t007
+       00011385_s003_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3933  Miss: 0.6067  False Alarms: 1.0000  Total: 1.6067)
+
+  941: 00011385_s003_t008
+       00011385_s003_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  942: 00011385_s003_t006
+       00011385_s003_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  943: 00011385_s003_t001
+       00011385_s003_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  944: 00011385_s003_t005
+       00011385_s003_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  945: 00012938_s005_t003
+       00012938_s005_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0233  Miss: 0.9767  False Alarms: 1.0000  Total: 1.9767)
+
+  946: 00012938_s005_t005
+       00012938_s005_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  947: 00012938_s005_t001
+       00012938_s005_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.6123  Miss: 0.3877  False Alarms: 3.0000  Total: 3.3877)
+
+  948: 00012938_s005_t006
+       00012938_s005_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4633  Miss: 0.5367  False Alarms: 1.0000  Total: 1.5367)
+
+  949: 00012938_s005_t004
+       00012938_s005_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  950: 00012938_s005_t000
+       00012938_s005_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.5200  Miss: 0.4800  False Alarms: 1.0000  Total: 1.4800)
+
+  951: 00012938_s005_t002
+       00012938_s005_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.4967  Miss: 0.5033  False Alarms: 2.0000  Total: 2.5033)
+
+  952: 00012526_s007_t006
+       00012526_s007_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  953: 00012526_s007_t004
+       00012526_s007_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  954: 00012526_s007_t002
+       00012526_s007_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  955: 00012526_s007_t003
+       00012526_s007_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  956: 00012526_s007_t000
+       00012526_s007_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  957: 00012526_s007_t001
+       00012526_s007_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  958: 00012526_s007_t005
+       00012526_s007_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  959: 00012526_s004_t006
+       00012526_s004_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  960: 00012526_s004_t007
+       00012526_s004_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  961: 00012526_s004_t001
+       00012526_s004_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  962: 00012526_s004_t005
+       00012526_s004_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0333  Miss: 0.9667  False Alarms: 1.0000  Total: 1.9667)
+
+  963: 00012526_s004_t002
+       00012526_s004_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.7488  Miss: 0.2512  False Alarms: 1.0000  Total: 1.2512)
+
+  964: 00012526_s004_t003
+       00012526_s004_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  965: 00012526_s004_t008
+       00012526_s004_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  966: 00012526_s004_t000
+       00012526_s004_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  967: 00012526_s004_t004
+       00012526_s004_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.8902  Miss: 0.1098  False Alarms: 2.0000  Total: 2.1098)
+
+  968: 00012526_s006_t006
+       00012526_s006_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  969: 00012526_s006_t000
+       00012526_s006_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  970: 00012526_s006_t001
+       00012526_s006_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0033  Miss: 0.9967  False Alarms: 1.0000  Total: 1.9967)
+
+  971: 00012526_s006_t008
+       00012526_s006_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  972: 00012526_s006_t005
+       00012526_s006_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  973: 00012526_s006_t007
+       00012526_s006_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  974: 00012526_s006_t002
+       00012526_s006_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  975: 00012526_s006_t004
+       00012526_s006_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  976: 00012526_s006_t003
+       00012526_s006_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  977: 00012526_s006_t009
+       00012526_s006_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  978: 00012526_s005_t004
+       00012526_s005_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  979: 00012526_s005_t007
+       00012526_s005_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3511  Miss: 0.6489  False Alarms: 1.0000  Total: 1.6489)
+
+  980: 00012526_s005_t001
+       00012526_s005_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  981: 00012526_s005_t000
+       00012526_s005_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  982: 00012526_s005_t002
+       00012526_s005_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  983: 00012526_s005_t006
+       00012526_s005_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0000  Miss: 1.0000  False Alarms: 1.0000  Total: 2.0000)
+
+  984: 00012526_s005_t009
+       00012526_s005_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.3694  Miss: 0.6306  False Alarms: 2.0000  Total: 2.6306)
+
+  985: 00012526_s005_t008
+       00012526_s005_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0900  Miss: 0.9100  False Alarms: 1.0000  Total: 1.9100)
+
+  986: 00012526_s005_t003
+       00012526_s005_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0366  Miss: 0.9634  False Alarms: 1.0000  Total: 1.9634)
+
+  987: 00012526_s005_t005
+       00012526_s005_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 0.0183  Miss: 0.9817  False Alarms: 1.0000  Total: 1.9817)
+
+  988: 00006836_s006_t000
+       00006836_s006_t000
+  Ref: bckg seiz bckg seiz bckg seiz bckg
+  Hyp: 
+       (Hit: 2.2123  Miss: 4.7877  False Alarms: 4.7504  Total: 9.5381)
+
+  989: 00013002_s005_t001
+       00013002_s005_t001
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  990: 00013002_s005_t008
+       00013002_s005_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  991: 00013002_s005_t000
+       00013002_s005_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  992: 00013002_s005_t002
+       00013002_s005_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  993: 00013002_s005_t003
+       00013002_s005_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  994: 00013002_s005_t006
+       00013002_s005_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  995: 00013002_s005_t004
+       00013002_s005_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  996: 00013002_s004_t007
+       00013002_s004_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+  997: 00013002_s004_t008
+       00013002_s004_t008
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.8745  Miss: 1.1255  False Alarms: 1.0227  Total: 2.1482)
+
+  998: 00013002_s004_t003
+       00013002_s004_t003
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+  999: 00013002_s004_t001
+       00013002_s004_t001
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+ 1000: 00013002_s004_t002
+       00013002_s004_t002
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 2.0000  False Alarms: 1.0000  Total: 3.0000)
+
+ 1001: 00013002_s004_t011
+       00013002_s004_t011
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 2.3129  Miss: 0.6871  False Alarms: 1.3418  Total: 2.0289)
+
+ 1002: 00013002_s004_t005
+       00013002_s004_t005
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.9660  Miss: 1.0340  False Alarms: 0.6322  Total: 1.6662)
+
+ 1003: 00013002_s004_t012
+       00013002_s004_t012
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+ 1004: 00013002_s004_t009
+       00013002_s004_t009
+  Ref: bckg seiz bckg
+  Hyp: 
+       (Hit: 1.9582  Miss: 1.0418  False Alarms: 1.0632  Total: 2.1050)
+
+ 1005: 00013002_s004_t016
+       00013002_s004_t016
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+ 1006: 00013002_s004_t014
+       00013002_s004_t014
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+ 1007: 00013002_s004_t013
+       00013002_s004_t013
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+ 1008: 00013002_s006_t005
+       00013002_s006_t005
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+ 1009: 00013002_s006_t009
+       00013002_s006_t009
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+ 1010: 00013002_s006_t004
+       00013002_s006_t004
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+ 1011: 00013002_s006_t000
+       00013002_s006_t000
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+ 1012: 00013002_s006_t003
+       00013002_s006_t003
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+ 1013: 00013002_s006_t010
+       00013002_s006_t010
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+ 1014: 00013002_s006_t007
+       00013002_s006_t007
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+ 1015: 00013002_s006_t008
+       00013002_s006_t008
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+ 1016: 00013002_s006_t002
+       00013002_s006_t002
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+
+ 1017: 00013002_s006_t006
+       00013002_s006_t006
+  Ref: bckg
+  Hyp: 
+       (Hit: 1.0000  Miss: 0.0000  False Alarms: 0.0000  Total: 0.0000)
+

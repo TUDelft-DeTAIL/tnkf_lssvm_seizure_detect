@@ -1,0 +1,29 @@
+{
+    "sigma2": 16,
+    "gamma": 0.1,
+    "opts": {
+        "method": "kalmanTT",
+        "weighted": false,
+        "kalmanOpt": {
+            "x0": "zero",
+            "p0": 1,
+            "q": null,
+            "lambda": 0.999,
+            "R": 0,
+            "Rank": {
+                "x": 30,
+                "P": 1,
+                "C": 30,
+                "s": null,
+                "K": 6
+            },
+            "Eps": {
+                "x": 0,
+                "P": 0,
+                "C": 0,
+                "s": 0.001,
+                "K": 0
+            }
+        }
+    }
+}

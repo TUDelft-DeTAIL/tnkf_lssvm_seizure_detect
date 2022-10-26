@@ -1,0 +1,1 @@
+Usage: nedc_eval_eeg -o output -p param.txt -n -c ref.list hyp.list

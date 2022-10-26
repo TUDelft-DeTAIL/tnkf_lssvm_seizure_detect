@@ -1,0 +1,128 @@
+# file: $NEDC_NFC/util/python/nedc_eeg_eval/nedc_eval_eeg_params_v00.txt
+#
+# A parameter file that defines key paramters for the scoring algorithms.
+# This version does a "two-class" evaluation. It was originally designed
+# for seizure detection experiments.
+#
+
+# set version information
+#
+version = param_v1.0.0
+
+#------------------------------------------------------------------------------
+#
+# Section 0: General Annotation Mapping Parameters
+#
+#------------------------------------------------------------------------------
+
+# Multi-Class Evaluation:
+#  define a mapping that defines which labels are seizures and
+#  which labels are background. note that every symbol that
+#  appears in the annotations must be specified here.
+#
+MAP {
+ SEIZ = SEIZ
+ BCKG = BCKG
+}
+
+#------------------------------------------------------------------------------
+#
+# Section 1: NIST F4DE-related Parameters
+#
+#------------------------------------------------------------------------------
+
+# The variables below map directly into variables used by the NIST
+# software:
+#
+#  koefcorrect:   weight for correct scores [default = 0.1000]
+#  koefincorrect: weight for incorrect scpres [default = 1.0000]
+#  probterm:      the probability of a term [default = 0.0001]
+#  delta:         the maximum allowable gap [default = 0.5000]
+#  
+NIST_F4DE {
+ koefcorrect = 0.1000
+ koefincorrect = 1.0000
+ probterm = 0.0001
+ delta = 0.5
+ fname_kwslist = nist.kwslist.xml
+ fname_kwlist = nist.kwlist.xml
+ fname_rttm = nist.rttm
+ fname_ecf = nist.ecf.xml
+ fname_bsum = nist.bsum.txt
+ fname_log = nist.bsum.log
+ output_directory = nist
+ basename = nist
+ command = nist_cmd.sh
+}
+
+#------------------------------------------------------------------------------
+#
+# Section 2: NEDC DP Alignment Parameters
+#
+#------------------------------------------------------------------------------
+
+# define dynamic programming penalties and designate a symbol to be
+# treated as null (background)
+# 
+NEDC_DPALIGN {
+ penalty_del = 1.0
+ penalty_ins = 1.0
+ penalty_sub = 1.0
+}
+
+#------------------------------------------------------------------------------
+#
+# Section 3: NEDC Epoch-related Parameters
+#
+#------------------------------------------------------------------------------
+
+# define the epoch duration in seconds and a null class
+# 
+NEDC_EPOCH {
+ epoch_duration = 1.0
+ null_class = BCKG
+}
+
+#------------------------------------------------------------------------------
+#
+# Section 4: NEDC Overlap-related Parameters
+#
+#------------------------------------------------------------------------------
+
+# no parameters are currently required for this technique
+# 
+NEDC_OVERLAP {
+ guard_width = 0.001
+ ndigits_round = 3
+}
+
+#------------------------------------------------------------------------------
+#
+# Section 5: NEDC Time-Aligned Event-related Parameters
+#
+#------------------------------------------------------------------------------
+
+# TAES scoring uses the same approach as overlap-based scoring.
+# 
+NEDC_TAES {
+}
+
+#------------------------------------------------------------------------------
+#
+# Section 6: NEDC Inter-Rater Agreement
+#
+#------------------------------------------------------------------------------
+
+# IRA scoring uses the same approach as epoch-based scoring: time-alignment
+# of the transcriptions
+# 
+NEDC_IRA {
+ epoch_duration = 1.0
+ null_class = BCKG
+}
+
+#------------------------------------------------------------------------------
+#
+# end of file
+#
+#------------------------------------------------------------------------------
