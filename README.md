@@ -9,6 +9,9 @@ The code in this repository is divided into two sections [classification](classi
 
 The package dependencies of both code bases are listed in the respective folders.
 
+For the hyperparameters go [here](https://github.com/sderooij/tnkf_lssvm_seizure_detect/tree/main/classification#hyperparameters).
+
+
 ## Citation
 When using the code please cite our paper (a `citation.cff` file will be added to specify how to cite).
 
