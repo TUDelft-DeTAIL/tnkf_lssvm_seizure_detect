@@ -1,8 +1,3 @@
-old/
-slurm*
-config.m
-
-
 # Windows default autosave extension
 *.asv
 
