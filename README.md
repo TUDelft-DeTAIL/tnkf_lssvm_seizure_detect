@@ -1,6 +1,6 @@
 # TNKF-LSSVM for Seizure Detection
 
-Public repo for paper: "Enabling Large-Scale Seizure Detection with a Tensor-Network Kalman Filter for LS-SVM" by S.J.S de Rooij, K. Batselier and B. Hunyadi.
+Public repo for paper: "Enabling Large-Scale Probabilistic Seizure Detection with a Tensor-Network Kalman Filter for LS-SVM" by S.J.S de Rooij, K. Batselier and B. Hunyadi.
 
 ## Code
 The code in this repository is divided into two sections [classification](classification/) and [data_processing](data_processing/). 
